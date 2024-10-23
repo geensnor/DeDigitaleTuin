@@ -1,12 +1,13 @@
 ---
-import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
-import ReceptMetadata from '../../../components/ReceptMetadata.astro';
-import { getCollection } from 'astro:content';
+import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
+import ReceptMetadata from "../../../components/ReceptMetadata.astro";
+import { getCollection } from "astro:content";
 
 export async function getStaticPaths() {
-  const recepten = await getCollection('recepten');
-  return recepten.map(recept => ({
-    params: { slug: recept.slug }, props: { recept },
+  const recepten = await getCollection("recepten");
+  return recepten.map((recept) => ({
+    params: { slug: recept.slug },
+    props: { recept },
   }));
 }
 
@@ -15,9 +16,10 @@ const { Content } = await recept.render();
 ---
 
 <StarlightPage frontmatter={{ title: recept.data.name }}>
+  <ReceptMetadata {recept} />
 
-<ReceptMetadata {recept} />
-
-<Content />
-<a class="terug-link" href="./">terug naar alle recepten</a>
+  <Content />
+  <a class="terug-link" href="/eten-en-drinken/recepten"
+    >terug naar alle recepten</a
+  >
 </StarlightPage>
