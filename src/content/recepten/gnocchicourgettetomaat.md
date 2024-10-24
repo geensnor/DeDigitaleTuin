@@ -1,5 +1,7 @@
 ---
 name: Gnocchi met courgette en tomaat
+recipeCategory: hoofdgerecht
+recipeYield: 3
 suitableForDiet:
   - VegetarianDiet
 ---
@@ -8,12 +10,10 @@ Vegetarisch en heel snel
 
 ## Ingredienten
 
-Voor ongeveer 3 personen
-
 - Pak gnocchi
 - 1 courgette
 - Bakje cherrytomaten
-- Bakje verse groene pesto. [Deze](https://www.ah.nl/producten2/product/wi160917/ah-verse-pesto-groen) bijvoorbeeld.
+- Bakje verse groene pesto. [Deze](https://www.ah.nl/producten/product/wi217297/ah-groene-pesto) bijvoorbeeld.
 - Rucola
 - Parmesaanse kaas
 
