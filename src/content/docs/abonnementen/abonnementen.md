@@ -28,6 +28,7 @@ title: Abonnementen
 | Stewart Hicks       | Stewart vertelt over architectuur. Hij is Associate Professor in Chicago dus hij weet er wel wat van. | [https://www.youtube.com/user/stewarthicks](https://www.youtube.com/user/stewarthicks)     |
 | Great Art Explained | De verhalen achter bekende kunstwerken.                                                               | [https://www.youtube.com/c/GreatArtExplained](https://www.youtube.com/c/GreatArtExplained) |
 | Aquaholic           | Engelse kerel loopt door mega grote jachten heen.                                                     | [https://www.youtube.com/c/AQUAHOLIC](https://www.youtube.com/c/AQUAHOLIC)                 |
+| The kid should see this| Niet echt een YouTube kanaal waar je je op kan abonneren, maar een site waarop leuke, educatieve YouTube video's staan voor kinderen|[https://thekidshouldseethis.com/](https://thekidshouldseethis.com/)|
 
 ### Youtubers die dingen maken
 
