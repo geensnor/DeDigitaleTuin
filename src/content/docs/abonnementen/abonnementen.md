@@ -32,15 +32,15 @@ title: Abonnementen
 
 ### Lego op YouTube
 
-|Kanaal|Wat voor een Lego?|
-|----|-----|
-| [Brick Crafts](https://www.youtube.com/@Brick_Crafts)             | Lego steden. Erg rustgevend.       |
-|       [JK Brickworks](https://www.youtube.com/@JKBrickworks)   | Dingen die bewegen.|
-|[Brick Experiment Channel](https://www.youtube.com/@BrickExperimentChannel)|Allemaal experimenten met Lego. Tien verschillende liften met Lego. Hoe kan een auto tegen een wand oprijden? Dat werk...|
-|[Brick Technology](https://www.youtube.com/@BrickTechnology)|Ook dingen die bewegen.|
-|[Dr. Engine](https://www.youtube.com/@DrEngine)|Vooral technisch Lego.|
-|[Build it with bricks](https://www.youtube.com/@BuilditwithBricks)|Ook weer een hoop gekkigheid met Lego.|
-|[GazR's Extreme Brick Machines!](https://www.youtube.com/@GazRsExtremeBrickMachines)|Extreme (of wat daar voor door moet gaan) dingen met Lego.|
+| Kanaal                                                                               | Wat voor een Lego?                                                                                                        |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
+| [Brick Crafts](https://www.youtube.com/@Brick_Crafts)                                | Lego steden. Erg rustgevend.                                                                                              |
+| [JK Brickworks](https://www.youtube.com/@JKBrickworks)                               | Dingen die bewegen.                                                                                                       |
+| [Brick Experiment Channel](https://www.youtube.com/@BrickExperimentChannel)          | Allemaal experimenten met Lego. Tien verschillende liften met Lego. Hoe kan een auto tegen een wand oprijden? Dat werk... |
+| [Brick Technology](https://www.youtube.com/@BrickTechnology)                         | Ook dingen die bewegen.                                                                                                   |
+| [Dr. Engine](https://www.youtube.com/@DrEngine)                                      | Vooral technisch Lego.                                                                                                    |
+| [Build it with bricks](https://www.youtube.com/@BuilditwithBricks)                   | Ook weer een hoop gekkigheid met Lego.                                                                                    |
+| [GazR's Extreme Brick Machines!](https://www.youtube.com/@GazRsExtremeBrickMachines) | Extreme (of wat daar voor door moet gaan) dingen met Lego.                                                                |
 
 ### Youtubers die dingen maken
 
