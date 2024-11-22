@@ -30,6 +30,18 @@ title: Abonnementen
 | Aquaholic               | Engelse kerel loopt door mega grote jachten heen.                                                                                    | [https://www.youtube.com/c/AQUAHOLIC](https://www.youtube.com/c/AQUAHOLIC)                 |
 | The kid should see this | Niet echt een YouTube kanaal waar je je op kan abonneren, maar een site waarop leuke, educatieve YouTube video's staan voor kinderen | [https://thekidshouldseethis.com/](https://thekidshouldseethis.com/)                       |
 
+### Lego op YouTube
+
+|Kanaal|Wat voor een Lego?|
+|----|-----|
+| [Brick Crafts](https://www.youtube.com/@Brick_Crafts)             | Lego steden. Erg rustgevend.       |
+|       [JK Brickworks](https://www.youtube.com/@JKBrickworks)   | Dingen die bewegen.|
+|[Brick Experiment Channel](https://www.youtube.com/@BrickExperimentChannel)|Allemaal experimenten met Lego. Tien verschillende liften met Lego. Hoe kan een auto tegen een wand oprijden? Dat werk...|
+|[Brick Technology](https://www.youtube.com/@BrickTechnology)|Ook dingen die bewegen.|
+|[Dr. Engine](https://www.youtube.com/@DrEngine)|Vooral technisch Lego.|
+|[Build it with bricks](https://www.youtube.com/@BuilditwithBricks)|Ook weer een hoop gekkigheid met Lego.|
+|[GazR's Extreme Brick Machines!](https://www.youtube.com/@GazRsExtremeBrickMachines)|Extreme (of wat daar voor door moet gaan) dingen met Lego.|
+
 ### Youtubers die dingen maken
 
 Heerlijk om naar mensen te kijken die lekker heen rommelen.
@@ -38,7 +50,6 @@ Heerlijk om naar mensen te kijken die lekker heen rommelen.
 | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | [Ivan Miranda](https://www.youtube.com/@ivanmirandawastaken)      | Veel grote 3D print dingen. Aanrader is de marble clock                                                         |
 | [rctestflight](https://www.youtube.com/@rctestflight)             | Afstandsbedienbare boten, vliegtuigen en van alles wat erop lijkt.                                              |
-| [Brick Crafts](https://www.youtube.com/@Brick_Crafts)             | Lego steden. Erg rustgevend.                                                                                    |
 | [Colin Furze](https://www.youtube.com/@colinfurze)                | De OG. Veel voertuigen, lassen, vuur. En natuurlijk de laatste jaren graaft hij allemaal tunnels onder z'n huis |
 | [Stuff Made Here](https://www.youtube.com/@StuffMadeHere)         | Enorme nerd. Maakt leuke dingen icm software.                                                                   |
 | [Andrew Klein](https://yewtu.be/channel/UCYJ6JJ7Q938Fls5He8zYRFA) | Hout en metaalbewerking. Maar super mooie pikaschroefjes die je kan kopen                                       |
