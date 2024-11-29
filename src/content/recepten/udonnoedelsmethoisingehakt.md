@@ -7,14 +7,13 @@ cookTime: PT15M
 
 ## Ingredienten
 
-- 100 ml hoisinsaus 
-- 300 g rundergehakt 
-- 600 g kant-en-klare udonnoedels 
+- 100 ml hoisinsaus
+- 300 g rundergehakt
+- 600 g kant-en-klare udonnoedels
 - 400 g broccoliroosjes
 - 200 g peultjes
 - 10 g sesamzaad
 - ongezouten pinda's
-
 
 ## Bereiding
 
