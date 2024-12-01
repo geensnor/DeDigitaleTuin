@@ -63,7 +63,6 @@ Als je nieuwe spullen wilt ga je tegenwoordig meestal even online kijken. Er zij
 | --------------------- | ------------------------------------------------------------------------------------------------ |
 | Live slow ride Fast   | [Live slow ride fast](https://open.spotify.com/show/0M7Mo3pN1Hcc5ImqHP20H4?si=c5fc65cd6c574f77)  |
 | Tweewielers           | [Tweewielers](https://open.spotify.com/show/13NTOdiJnFhKELDRsc2Vwp?si=df6aa402640f4786)          |
-| Mapmeisters           | [Mapmeisters](https://open.spotify.com/show/0PfVYVOnbpkUGcE6AzdhaS?si=4a3868ae97bf4a2d)          |
 | Arriere de la Course  | [Arriere de la course](https://open.spotify.com/show/6SENlEV4OethC7eJXVrkFL?si=c0efe6d10e0d4413) |
 | Cycloworld de Podcast | [Cycloword de podcast](https://open.spotify.com/show/2PxYtrq6yG6QDNpRw1cBX5?si=9f424233e7c044e6) |
 | Fiets.nl Podcast      | [Fiets.nl](https://open.spotify.com/show/3dxBHo0GksyNh1VqfRhda5?si=9433a261ca37405a)             |
