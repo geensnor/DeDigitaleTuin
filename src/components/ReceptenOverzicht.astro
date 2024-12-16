@@ -14,7 +14,7 @@ const recepten = await getCollection("recepten");
     recepten.map((recept) => (
       <tr>
         <td>
-          <a href={Astro.url.pathname + recept.slug}>{recept.data.name}</a>{" "}
+          <a href={Astro.url.pathname + recept.id}>{recept.data.name}</a>{" "}
         </td>{" "}
         <td>{recept.data.recipeCategory}</td>
         <td>

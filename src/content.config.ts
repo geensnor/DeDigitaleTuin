@@ -1,11 +1,11 @@
 import { z, defineCollection } from 'astro:content';
+import { glob } from 'astro/loaders';
 import { docsSchema, i18nSchema } from '@astrojs/starlight/schema';
 
 export const collections = {
   docs: defineCollection({ schema: docsSchema() }),
-  i18n: defineCollection({ type: "data", schema: i18nSchema() }),
   recepten: defineCollection({
-    type: "content",
+    loader: glob({ pattern: '**/[^_]*.md', base: "./src/content/recepten" }),
     schema: z.object({
       name: z.string().describe("Naam van het gerecht"),
       recipeYield: z.number().optional(),
