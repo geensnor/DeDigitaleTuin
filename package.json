@@ -15,7 +15,7 @@
     "@fontsource-variable/work-sans": "^5.0.19",
     "@fontsource/zilla-slab": "^5.0.13",
     "@geensnor/astro-componenten": "^2.1.2",
-    "astro": "^5.0.5",
+    "astro": "^5.0.8",
     "iso8601-duration": "^2.1.2",
     "octokit": "^4.0.2",
     "sharp": "^0.32.5",
