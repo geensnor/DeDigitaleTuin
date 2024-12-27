@@ -1,6 +1,9 @@
 ---
 import { getCollection } from "astro:content";
-const recepten = await getCollection("recepten");
+
+const recepten = (await getCollection("recepten")).sort((a, b) =>
+  a.data.name.localeCompare(b.data.name)
+);
 ---
 
 <table>
