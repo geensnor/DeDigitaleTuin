@@ -13,6 +13,7 @@ export const collections = {
         .enum([
           "hoofdgerecht",
           "voorgerecht",
+          "bijgerecht",
           "ontbijt",
           "lunch",
           "nagerecht",

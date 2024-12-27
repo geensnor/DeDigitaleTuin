@@ -1,6 +1,7 @@
 ---
 name: Gyoza
 recipeCuisine: Japans
+recipeCategory: bijgerecht
 totalTime: PT45M
 author: Joris
 ---
