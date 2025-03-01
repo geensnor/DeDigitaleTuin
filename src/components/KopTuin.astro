@@ -1,6 +1,6 @@
 ---
-import type { Props } from "@astrojs/starlight/props";
+const { title } = Astro.locals.starlightRoute.entry.data;
 import { Kop } from "@geensnor/astro-componenten";
 ---
 
-<Kop id="_top" Type="h1">{Astro.props.entry.data.title}</Kop>
+<Kop id="_top" Type="h1">{title}</Kop>
