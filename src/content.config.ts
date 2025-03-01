@@ -1,11 +1,11 @@
-import { z, defineCollection } from 'astro:content';
-import { glob } from 'astro/loaders';
-import { docsSchema, i18nSchema } from '@astrojs/starlight/schema';
+import { z, defineCollection } from "astro:content";
+import { glob } from "astro/loaders";
+import { docsSchema } from "@astrojs/starlight/schema";
 
 export const collections = {
   docs: defineCollection({ schema: docsSchema() }),
   recepten: defineCollection({
-    loader: glob({ pattern: '**/[^_]*.md', base: "./src/content/recepten" }),
+    loader: glob({ pattern: "**/[^_]*.md", base: "./src/content/recepten" }),
     schema: z.object({
       name: z.string().describe("Naam van het gerecht"),
       recipeYield: z.number().optional(),
@@ -26,20 +26,22 @@ export const collections = {
       totalTime: z.string().duration().optional(),
       calories: z.number().optional(),
       author: z.string().optional(),
-      suitableForDiet: z.array(z
-        .enum([
-          "DiabeticDiet",
-          "GlutenFreeDiet",
-          "HalalDiet",
-          "HinduDiet",
-          "KosherDiet",
-          "LowCalorieDiet",
-          "LowFatDiet",
-          "LowLactoseDiet",
-          "LowSaltDiet",
-          "VeganDiet",
-          "VegetarianDiet",
-        ]))
+      suitableForDiet: z
+        .array(
+          z.enum([
+            "DiabeticDiet",
+            "GlutenFreeDiet",
+            "HalalDiet",
+            "HinduDiet",
+            "KosherDiet",
+            "LowCalorieDiet",
+            "LowFatDiet",
+            "LowLactoseDiet",
+            "LowSaltDiet",
+            "VeganDiet",
+            "VegetarianDiet",
+          ])
+        )
         .optional(),
     }),
   }),
