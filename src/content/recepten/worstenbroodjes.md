@@ -27,7 +27,7 @@ Voor 30 stuks
 
 ## Worstjes
 
-Gehaktkruiden mengen met 3 fijngemaakte beschuiten en 1 ei. Gehakt verder kruiden met peper, zout en een beetje nootmuskaat. Hiervan 30 worstjes maken (let op de hoeveelheid deegbolletjes je hebt gemaakt...).  Koop wat lekker gehakt. Bijvoorbeeld van [https://www.buitengewonevarkens.nl](https://www.buitengewonevarkens.nl).
+Gehaktkruiden mengen met 3 fijngemaakte beschuiten en 1 ei. Gehakt verder kruiden met peper, zout en een beetje nootmuskaat. Hiervan 30 worstjes maken (let op de hoeveelheid deegbolletjes je hebt gemaakt...). Koop wat lekker gehakt. Bijvoorbeeld van [https://www.buitengewonevarkens.nl](https://www.buitengewonevarkens.nl).
 
 ## Oven
 
