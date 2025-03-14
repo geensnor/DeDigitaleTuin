@@ -1,8 +1,6 @@
 {
-    "[markdown, json]": {
-      "editor.formatOnSave": true,
-      "editor.formatOnPaste": true,
-      }
-    }
-
-    
+  "[markdown, json]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
+  }
+}
