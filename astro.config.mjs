@@ -15,7 +15,7 @@ export default defineConfig({
       },
       plugins: [
         starlightLinksValidator({
-          errorOnRelativeLinks: false
+          errorOnRelativeLinks: false,
         }),
       ],
       title: "De Digitale Tuin",
@@ -52,7 +52,6 @@ export default defineConfig({
         },
         {
           label: "Soft- en hardware",
-          collapsed: true,
           autogenerate: { directory: "soft-en-hardware" },
         },
         {
