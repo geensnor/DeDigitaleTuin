@@ -34,7 +34,7 @@ Alternatieven die ons wel aardig leken.
 2. More Add-on Settings
 3. Rule Lists tab
 
-En voeg daar deze URL toe: [https://raw.githubusercontent.com/geensnor/dedigitaletuin/refs/head/main/public/assets/consent/rules-list.json](https://raw.githubusercontent.com/geensnor/dedigitaletuin/refs/head/main/public/assets/consent/rules-list.json)
+En voeg daar deze URL toe: [https://raw.githubusercontent.com/geensnor/DeDigitaleTuin/refs/heads/main/public/consent/rules-list.json](https://raw.githubusercontent.com/geensnor/DeDigitaleTuin/refs/heads/main/public/consent/rules-list.json)
 
 De bestaande regels blijven ook gewoon werken.
 
