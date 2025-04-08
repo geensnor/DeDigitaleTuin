@@ -2,6 +2,7 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightLinksValidator from "starlight-links-validator";
 import yaml from "@rollup/plugin-yaml";
+import umami from "@yeskunall/astro-umami";
 
 // https://astro.build/config
 export default defineConfig({
