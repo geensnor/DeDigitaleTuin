@@ -21,11 +21,11 @@ Heb je nog een goed Small Tech alternatief? [Laat het ons weten!](https://github
 
 Alternatieven die ons wel aardig leken.
 
-| Naam               | Website                                        | Alternatief voor                   | Toelichting                                                                                                                                             |
-| ------------------ | ---------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Filen              | [https://filen.io](https://filen.io/)          | Dropbox, Google Drive, Onedrive    | Duitse cloud opslag. Keurig in de EU en vriendelijk voor de portemonee.                                                                                 |
-| Open Source Office | [https://cryptpad.fr/](https://cryptpad.fr/)   | Microsoft Office, Onenote en Forms | Zoals bij zoveel open source software is de UI zo lelijk als de nacht, maar alles lijkt te werken. Vooral de formulieren oplossing kan erg handig zijn. |
-| Codeberg           | [https://codeberg.org/](https://codeberg.org/) | GitHub                             | GitHub met een zelfgebreide wollen trui aan. Duits. Nog minder Big Tech dan GitLab.                                                                     |
+| Naam               | Website                                                                 | Alternatief voor                   | Toelichting                                                                                                                                             |
+| ------------------ | ----------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Filen              | [https://filen.io](https://filen.io/r/9df324df5e8733b9a33b198fe409a907) | Dropbox, Google Drive, Onedrive    | Duitse cloud opslag. Keurig in de EU en vriendelijk voor de portemonee.                                                                                 |
+| Open Source Office | [https://cryptpad.fr/](https://cryptpad.fr/)                            | Microsoft Office, Onenote en Forms | Zoals bij zoveel open source software is de UI zo lelijk als de nacht, maar alles lijkt te werken. Vooral de formulieren oplossing kan erg handig zijn. |
+| Codeberg           | [https://codeberg.org/](https://codeberg.org/)                          | GitHub                             | GitHub met een zelfgebreide wollen trui aan. Duits. Nog minder Big Tech dan GitLab.                                                                     |
 
 ## Geensnor Consent-o-matic rules lijst
 
