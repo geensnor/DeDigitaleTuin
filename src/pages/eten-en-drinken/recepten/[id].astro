@@ -16,11 +16,10 @@ const { recept } = Astro.props;
 const { Content } = await render(recept);
 ---
 
-<ReceptStructuredData {recept} url={Astro.url.href} />
-  <ReceptMetadata {recept} />
+<ReceptStructuredData {recept} />
+
 <StarlightPage frontmatter={{ title: recept.data.name }}>
-
-
+  <ReceptMetadata {recept} />
   <Content />
   <a class="terug-link" href="/eten-en-drinken/recepten/"
     >terug naar alle recepten</a

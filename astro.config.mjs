@@ -6,6 +6,7 @@ import umami from "@yeskunall/astro-umami";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://www.dedigitaletuin.nl",
   vite: {
     plugins: [yaml()],
   },

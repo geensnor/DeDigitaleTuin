@@ -1,15 +1,14 @@
 ---
-const { recept, url } = Astro.props
-
+const { recept } = Astro.props;
 
 const structuredData = {
   "@context": "https://schema.org",
   "@type": "Recipe",
   name: recept.data.name,
-  url: url,
+  url: Astro.site?.href + Astro.url.pathname,
   totalTime: recept.data.totalTime,
   recipeCategory: recept.data.recipeCategory,
-}
+};
 ---
 
 <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
