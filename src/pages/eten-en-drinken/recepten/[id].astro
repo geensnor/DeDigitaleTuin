@@ -1,6 +1,7 @@
 ---
 import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
 import ReceptMetadata from "../../../components/ReceptMetadata.astro";
+import ReceptStructuredData from "../../../components/ReceptStructuredData.astro";
 import { getCollection, render } from "astro:content";
 
 export async function getStaticPaths() {
@@ -15,11 +16,13 @@ const { recept } = Astro.props;
 const { Content } = await render(recept);
 ---
 
-<StarlightPage frontmatter={{ title: recept.data.name }}>
+<ReceptStructuredData {recept} url={Astro.url.href} />
   <ReceptMetadata {recept} />
+<StarlightPage frontmatter={{ title: recept.data.name }}>
+
 
   <Content />
-  <a class="terug-link" href="/eten-en-drinken/recepten"
+  <a class="terug-link" href="/eten-en-drinken/recepten/"
     >terug naar alle recepten</a
   >
 </StarlightPage>
