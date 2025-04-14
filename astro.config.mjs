@@ -12,6 +12,22 @@ export default defineConfig({
   integrations: [
     umami({ id: "a609a09c-e6fe-48dd-b07b-330e8a22a273" }),
     starlight({
+      head: [
+        {
+          tag: "script",
+          attrs: {
+            "type": "application/ld+json"
+          },
+          content: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            name: "De Digitale Tuin",
+            url: "https://wwwwdedigitaletuin.nl",
+            description:
+              "De Digitale Tuin is een verzameling van mijn favoriete dingen en plekken op het internet.",
+          }),
+        },
+      ],
       editLink: {
         baseUrl: "https://github.com/geensnor/DeDigitaleTuin/edit/main",
       },
