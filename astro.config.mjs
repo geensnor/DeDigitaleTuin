@@ -16,15 +16,14 @@ export default defineConfig({
         {
           tag: "script",
           attrs: {
-            "type": "application/ld+json"
+            type: "application/ld+json",
           },
           content: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "WebSite",
             name: "De Digitale Tuin",
-            url: "https://wwwwdedigitaletuin.nl",
-            description:
-              "De Digitale Tuin is een verzameling van mijn favoriete dingen en plekken op het internet.",
+            url: "https://wwww.dedigitaletuin.nl",
+            description: "Een bonte verzameling van allerlei aardigheden.",
           }),
         },
       ],
