@@ -8,6 +8,7 @@ export const collections = {
     loader: glob({ pattern: "**/[^_]*.md", base: "./src/content/recepten" }),
     schema: z.object({
       name: z.string().describe("Naam van het gerecht"),
+      image: z.string().optional(),
       recipeYield: z.number().optional(),
       recipeCategory: z
         .enum([

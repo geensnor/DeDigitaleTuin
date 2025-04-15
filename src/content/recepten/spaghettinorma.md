@@ -1,6 +1,7 @@
 ---
 name: Spaghetti alla Norma
 recipeCategory: hoofdgerecht
+image: https://static.ah.nl/static/recepten/img_057270_2048x1496_JPG.jpg
 recipeCuisine: italiaans
 suitableForDiet:
   - VegetarianDiet
