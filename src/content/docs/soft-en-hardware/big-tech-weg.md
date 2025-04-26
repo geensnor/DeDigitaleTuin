@@ -12,11 +12,11 @@ Heb je nog een goed Small Tech alternatief? [Laat het ons weten!](https://github
 
 ## Andere lijsten met alternatieven
 
-| Website                                                                        | Toelichting                                               |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------- |
-| [https://european-alternatives.eu/](https://european-alternatives.eu/)         | Site met Europeese alternatieven voor diensten uit de VS. |
-| [https://www.opensourcealternative.to/](https://www.opensourcealternative.to/) | Site met Open Source alternatieven voor gesloten software |
-| [Lijst op Gathering of Tweakers](https://gathering.tweakers.net/forum/list_messages/2285628/0)|Lijst van Tweakers|
+| Website                                                                                        | Toelichting                                               |
+| ---------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [https://european-alternatives.eu/](https://european-alternatives.eu/)                         | Site met Europeese alternatieven voor diensten uit de VS. |
+| [https://www.opensourcealternative.to/](https://www.opensourcealternative.to/)                 | Site met Open Source alternatieven voor gesloten software |
+| [Lijst op Gathering of Tweakers](https://gathering.tweakers.net/forum/list_messages/2285628/0) | Lijst van Tweakers                                        |
 
 ## Alternatieve producten en diensten
 
