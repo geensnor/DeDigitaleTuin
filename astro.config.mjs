@@ -43,11 +43,19 @@ export default defineConfig({
           lang: "nl",
         },
       },
-      social: {
-        github: "https://github.com/geensnor/dedigitaletuin",
-        mastodon: "https://mastodon.xyz/@geensnor",
-        telegram: "https://t.me/geensnor",
-      },
+      social: [
+        {
+          icon: "github",
+          label: "GitHub",
+          href: "https://github.com/geensnor/dedigitaletuin",
+        },
+        {
+          icon: "mastodon",
+          label: "Mastodon",
+          href: "https://mastodon.xyz/@geensnor",
+        },
+        { icon: "telegram", label: "Telegram", href: "https://t.me/geensnor" },
+      ],
       pagination: false,
       lastUpdated: true,
       logo: {
