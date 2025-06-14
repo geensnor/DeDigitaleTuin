@@ -27,7 +27,7 @@ Alternatieven die ons wel aardig leken.
 | Filen              | [https://filen.io](https://filen.io/r/9df324df5e8733b9a33b198fe409a907) | Dropbox, Google Drive, Onedrive    | Duitse cloud opslag. Keurig in de EU en vriendelijk voor de portemonee.                                                                                 |
 | Open Source Office | [https://cryptpad.fr/](https://cryptpad.fr/)                            | Microsoft Office, Onenote en Forms | Zoals bij zoveel open source software is de UI zo lelijk als de nacht, maar alles lijkt te werken. Vooral de formulieren oplossing kan erg handig zijn. |
 | Codeberg           | [https://codeberg.org/](https://codeberg.org/)                          | GitHub                             | GitHub met een zelfgebreide wollen trui aan. Duits. Nog minder Big Tech dan GitLab.                                                                     |
-
+| peertube           | [peertube](https://joinpeertube.org/)                                   | Youtube                            | Videos in de fediverse. Ook hier moet je even over de mindfuck heen met verschillende servers maar met de app gaat dat eigenlijk best soepel.           | 
 ## Geensnor Consent-o-matic rules lijst
 
 [Consent-o-matic](https://consentomatic.au.dk/) is een handige browser extentie om cookiebanners weg te klikken en nergens mee akkoord te gaan. Helaas zijn de regels die ze gebruiken niet altijd up-to-date. Geensnor helpt je uit de brand door een eigen lijst van regels bij te houden! Op het moment van schrijven werken de regels om de banner van DPG Media weg te klikken bijvoorbeeld wel in de Geensnor lijst, maar niet in de meegeleverde lijst. Voeg de onderstaande lijst dus toe:
