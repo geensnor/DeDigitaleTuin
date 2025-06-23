@@ -28,4 +28,4 @@ tar xvzf domoticz_backup_yyyymmdd_hhmms.tar.gz -C /home/pi/domoticz
 service domoticz restart
 ```
 
-Mocht hij piepen over rechten o pde backups folders is dat een kwestie van ff ```sudo -s``` (nieuwe shell met root rechten).
+Mocht hij piepen over rechten o pde backups folders is dat een kwestie van ff `sudo -s` (nieuwe shell met root rechten).
