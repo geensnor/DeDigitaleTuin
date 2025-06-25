@@ -2,5 +2,11 @@
   "[markdown, json]": {
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true
+  },
+  "github.copilot.enable": {
+    "yaml": false,
+    "json": false,
+    "plaintext": false,
+    "markdown": false
   }
 }
