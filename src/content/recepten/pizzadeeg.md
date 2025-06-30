@@ -7,7 +7,7 @@ suitableForDiet:
   - VegetarianDiet
 ---
 
-Voor vier pizza's. Van [rutgerbakt.nl](https://rutgerbakt.nl/alle-recepten/zelf-pizzadeeg-maken-recept/)
+Voor vier pizza's. Van [rutgerbakt.nl](https://rutgerbakt.nl/alle-recepten/zelf-pizzadeeg-maken-recept/). Waarschijnlijk kun je trouwens beter [deze](/eten-en-drinken/recepten/pizzadeeg-2) maken. Maar dat weten we nog niet zeker.
 
 ## Ingredienten
 
