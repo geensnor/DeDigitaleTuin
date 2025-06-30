@@ -25,6 +25,11 @@ export default defineConfig({
             name: "De Digitale Tuin",
             url: "https://wwww.dedigitaletuin.nl",
             description: "Een bonte verzameling van allerlei aardigheden.",
+            license: {
+              "@type": "CreativeWork",
+              name: "Attribution-NonCommercial-ShareAlike 4.0 International",
+              license: "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+            },
           }),
         },
         // Favicon configuratie
