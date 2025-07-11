@@ -14,6 +14,7 @@ Spelletjes. Altijd leuk.
 | Moving Out. Leuk, origineel spel van de makers van Worms                | [Moving Out](https://www.team17.com/games/moving-out/)                |
 | Balanceer spelletje met je telefoon                                     | [balanc3dgame.com](https://www.balanc3dgame.com)                      |
 | Verslavend hak-en-mep spelletje. Zorg wel dat je vier controllers hebt. | [boomerangfu.com](https://www.boomerangfu.com/)                       |
+| Risk achtig online strategiespel|[openfront.io](https://openfront.io/)|
 
 ## Open Source Real Time Strategy (RTS)
 
