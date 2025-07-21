@@ -24,7 +24,7 @@ recipeCategory: hoofdgerecht
 
 1. Snij de prei in dunne ringen en de sjalot in halve ringen.
 2. Pers of snij de knoflook fijn
-3. Bak de de prei, sjalot en knoflook 4 minuten aan met wat olijfolie in een hapjespan
+3. Bak de prei, sjalot en knoflook 4 minuten aan met wat olijfolie in een hapjespan
 4. Penne koken
 5. Slagroom bij en blokje bouillon verbrokkelen. 10 minuten laten stoven
 6. Spinazie er rustig bij doen.

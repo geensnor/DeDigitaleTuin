@@ -35,4 +35,4 @@ Als de worstenbroodjes zijn gevouwen (te lastig om hier uit te leggen, sorry) mo
 
 ## Opwarmen voor het eten
 
-In in een voorverwarmede oven 25 minuten op 150 graden.
+In een voorverwarmede oven 25 minuten op 150 graden.
