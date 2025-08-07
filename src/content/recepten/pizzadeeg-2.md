@@ -9,7 +9,7 @@ suitableForDiet:
   - VegetarianDiet
 ---
 
-Weer een recept voor pizzadeeg. Deze is waarschijnlijk iets beter dan [deze](/eten-en-drinken/recepten/pizzadeeg)
+Weer een recept voor pizzadeeg. Deze is waarschijnlijk iets beter dan [deze](eten-en-drinken/recepten/pizzadeeg/)
 
 Per 1000g bloem kun je 6 goede pizza’s maken
 
