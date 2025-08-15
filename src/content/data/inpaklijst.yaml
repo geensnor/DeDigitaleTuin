@@ -20,6 +20,7 @@ categorieen:
       - Zwemkleding
       - Paspoorten
       - Airtag
+      - Drinkfles
   - naam: Kamperen
     items:
       - Luchtbed
@@ -31,6 +32,9 @@ categorieen:
       - Bluetooth speaker
       - Muggenspul
       - Zaklamp
+      - Tent
+      - Hamer voor haringen
+      - Iets om op te zitten
   - naam: Kinderen
     items:
       - Spelletjes
