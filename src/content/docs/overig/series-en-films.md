@@ -14,3 +14,9 @@ We leven in een tijd van streaming media on demand. Lineair is dood, leve netfli
 | The Boys                   | Prime    | Satirische serie over superhelden die eigenlijk helemaal niet zo aardig blijken te zijn. Best lomp maar wel geestig. Krijgt flink hoge score op imdb.                                                                                                                                                                                       | [imdb 8.7/10](https://www.imdb.com/title/tt1190634/) |
 | Beef                       | Netflix  | Twee mensen krijgen ruzie op een parkeerplaats en gaan daar net iets te lang in door                                                                                                                                                                                                                                                        | [imdb 8.4/10](https://www.imdb.com/title/tt14403178) |
 | Clarkson's Farm            | Prime    | Clarkson heeft zijn eigen boerderij en leert van alles over het telen van allerlei gewassen, koeien, schapen, varkens enzovoort. Daarnaast ruziet ie met de lokale bewoners en gemeente. Vermakelijk omdat er een fijne mix is tussen grappig en interessant. Vermaak en je leert echt van alles. En uiteindelijk zijn tractors gewoon tof. | [imdb 9/10](https://www.imdb.com/title/tt10541088/)  |
+
+## Films
+
+| Naam    | Platform | Waar gaat het over                                                                          |
+| ------- | -------- | ------------------------------------------------------------------------------------------- |
+| Calibre | Netflix  | Man schiet tijdens het jagen in Schotland per ongeluk een kind dood. Daarna een hoop gedoe. |
