@@ -23,12 +23,12 @@ Heb je nog een goed Small Tech alternatief? [Laat het ons weten!](https://github
 Alternatieven die ons wel aardig leken.
 
 | Naam               | Website                                                                 | Alternatief voor                   | Toelichting                                                                                                                                             |
-| ------------------ | ----------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| ------------------ | ----------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Filen              | [https://filen.io](https://filen.io/r/9df324df5e8733b9a33b198fe409a907) | Dropbox, Google Drive, Onedrive    | Duitse cloud opslag. Keurig in de EU en vriendelijk voor de portemonee.                                                                                 |
 | Open Source Office | [https://cryptpad.fr/](https://cryptpad.fr/)                            | Microsoft Office, Onenote en Forms | Zoals bij zoveel open source software is de UI zo lelijk als de nacht, maar alles lijkt te werken. Vooral de formulieren oplossing kan erg handig zijn. |
 | Codeberg           | [https://codeberg.org/](https://codeberg.org/)                          | GitHub                             | GitHub met een zelfgebreide wollen trui aan. Duits. Nog minder Big Tech dan GitLab.                                                                     |
 | peertube           | [PeerTube](https://joinpeertube.org/)                                   | Youtube                            | Videos in de Fediverse. Ook hier moet je even over de mindfuck heen met verschillende servers maar met de app gaat dat eigenlijk best soepel.           |
-| Syncthing          | [syncthing.net](https://syncthing.net/)                                 | Dropbox, Google Drive, Onedrive    | Synchroniseert bestanden tussen apparaten. Draait op bijna alles.                                                                                       |     |
+| Syncthing          | [syncthing.net](https://syncthing.net/)                                 | Dropbox, Google Drive, Onedrive    | Synchroniseert bestanden tussen apparaten. Draait op bijna alles.                                                                                       |
 
 ## Geensnor Consent-o-matic rules lijst
 
