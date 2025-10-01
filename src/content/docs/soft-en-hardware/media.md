@@ -11,7 +11,6 @@ Bedrijven zoeken op [allerlei](https://permissionmachine.com/) manieren naar afb
 | [dupephotos.com](https://dupephotos.com/)              | Rechtenvrije foto's. Wel veel crappy formaten.               |
 | [commons.wikimedia.org](https://commons.wikimedia.org) | Rechtenvrije foto's en video's van Wikimedia                 |
 | [pixabay.com](https://pixabay.com/nl/)                 | Nog wat rechtenvrije foto's                                  |
-| [vektors.pro](https://www.vektors.pro/)                | Gratis vectorafbeeldingen                                    |
 | [Artvee](https://artvee.com/)                          | Browse and download high-resolution, public domain artworks. |
 | [nyx.gallery](https://nyx.gallery/)                    | Rechtenvrije, door AI gegenereerde "foto's"                  |
 | [public.work](https://public.work/)                    | Zoekmachine voor pubiek werk                                 |

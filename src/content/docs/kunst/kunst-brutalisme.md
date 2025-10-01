@@ -28,6 +28,4 @@ Brutalisme is niet voor tere zieltjes. Gigantische betonnen gebouwen, veel grijs
 
 - De Volkskrant 25 juli 2021: [Van brutalisme moet je leren houden – maar dan krijg je veel liefde terug](https://www.volkskrant.nl/cultuur-media/lomp-ruig-en-van-keihard-beton-van-brutalisme-moet-je-leren-houden-maar-dan-krijg-je-veel-liefde-terug~b3ce9b22/)
 
-- Database met meer dan 2000 brutalistische gebouwen: [SOSBrutalism](https://www.sosbrutalism.org)
-
 - De Volkskrant 31 mei 2023: [Ruwe bolsters in de Nederlandse polder: het brutalisme is populairder dan ooit](https://www.volkskrant.nl/cultuur-media/ruwe-bolsters-in-de-nederlandse-polder-het-brutalisme-is-populairder-dan-ooit~b925c3be/)
