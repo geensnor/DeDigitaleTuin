@@ -73,6 +73,13 @@ export default defineConfig({
           },
         },
         {
+          tag: "meta",
+          attrs: {
+            name: "fediverse:creator",
+            content: "@mastodon.xyz@geensnor",
+          },
+        },
+        {
           tag: "link",
           attrs: {
             rel: "manifest",
