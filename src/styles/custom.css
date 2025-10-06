@@ -1,4 +1,4 @@
-:root[data-theme='light']{
+:root{
 	--sl-color-text-accent: hsl(15.8, 87.98%, 54.31%);
 	--sl-font: 'Work sans';
 	--sl-content-width: 60rem;
