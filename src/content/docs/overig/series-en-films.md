@@ -1,5 +1,5 @@
 ---
-title: Series en films
+title: Series, films en muziek
 tableOfContents: true
 ---
 
@@ -20,3 +20,9 @@ We leven in een tijd van streaming media on demand. Lineair is dood, leve netfli
 | Naam    | Platform | Waar gaat het over                                                                          |
 | ------- | -------- | ------------------------------------------------------------------------------------------- |
 | Calibre | Netflix  | Man schiet tijdens het jagen in Schotland per ongeluk een kind dood. Daarna een hoop gedoe. |
+
+## Muziek
+
+| Wat?                                                                             | Link                                                                 |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Internetradio door David Byrne. Mooi per thema. Als je een keer wat anders wilt. | [https://www.davidbyrne.com/radio](https://www.davidbyrne.com/radio) |
