@@ -85,6 +85,13 @@ export default defineConfig({
             rel: "manifest",
             href: "/favicon/site.webmanifest",
           },
+          tag: "link",
+          attrs: {
+            rel: "alternate",
+            type: "application/rss+xml",
+            title: "De Digitale Tuin",
+            href: "/rss.xml",
+          },
         },
       ],
       editLink: {
