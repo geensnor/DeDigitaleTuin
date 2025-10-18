@@ -10,7 +10,7 @@ export function GET(context) {
       title: commit.bericht,
       description: `De Digitale Tuin is aangepast door ${commit.auteur}: ${commit.bericht}.`,
       link: commit.html_url,
-      pubDate: commit.pubDate,
+      pubDate: commit.datum,
     })),
     customData: `<language>nl-nl</language>`,
   });
