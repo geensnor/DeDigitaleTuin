@@ -44,7 +44,7 @@ Koffiezetten doe je natuurlijk met een Moccamaster. Dat is evident. Een aeropres
 | Naam                   | Brouwerij  | URL                                                                   | Toelichting                                                                                                                    |
 | ---------------------- | ---------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Pitt & Rubi            | Flügge     | [untappd.com](https://untappd.com/b/flugge-pitt-and-rubi/4013137)     | Zo lekker dat ik er een sticker van op m'n fiets heb geplakt. Hybride bier van bier en wijn. Geweldige combi                   |
-| Weide                  | Nevel      | [nevel.org](https://nevel.org/)                                       | Bitter bier met lokale Spalter hop. Niet te zurig. Heerlijk fris. Lekkerste van Nevel en dat wil wat zeggen.                   |
+| Weide                  | Nevel      | [nevel.org](https://www.nevel.org/)                                   | Bitter bier met lokale Spalter hop. Niet te zurig. Heerlijk fris. Lekkerste van Nevel en dat wil wat zeggen.                   |
 | Zappes Sport           | Zappes     | [zappes-broi.de](https://www.zappes-broi.de/collections/zappes-sport) | Aardig lekker alcohol vrij pils. Gedronken toen ik erg dorstig was, dus wellicht was m'n beoordelingsvermogen iets vertroebeld |
 | Warsteiner Alcoholfrei | Warsteiner | [warsteiner.nl](https://www.warsteiner.nl/ons-bier/alkoholfrei)       | Lekkerste "gewone" alcohol vrije pils wat ik ken                                                                               |
 
