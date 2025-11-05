@@ -30,6 +30,7 @@ Alternatieven die ons wel aardig leken.
 | PeerTube           | [PeerTube](https://joinpeertube.org/)                                   | Youtube                            | Videos in de Fediverse. Ook hier moet je even over de mindfuck heen met verschillende servers maar met de app gaat dat eigenlijk best soepel.                                                                                    |
 | Syncthing          | [syncthing.net](https://syncthing.net/)                                 | Dropbox, Google Drive, Onedrive    | Synchroniseert bestanden tussen apparaten. Draait op bijna alles.                                                                                                                                                                |
 | Pikapods           | [https://www.pikapods.com/](https://www.pikapods.com/)                  | Alles                              | Bij Pikapods kun je zelf applicaties hosten voor een paar euro per maand. Fijn als je wel dat ene open source pakket wil gebruiken, maar niet weet waar het moet laten. Percentage van de kosten gaat zelfs naar de maintainers! |     |
+| Zeitkapsl          | [Zeitkapsl.eu](https://zeitkapsl.eu)                                    | Google Photo's                     |
 
 ## Geensnor Consent-o-matic rules lijst
 
