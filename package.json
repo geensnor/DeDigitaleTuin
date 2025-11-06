@@ -18,7 +18,7 @@
     "@fontsource/zilla-slab": "^5.2.7",
     "@geensnor/astro-componenten": "^2.1.2",
     "@yeskunall/astro-umami": "^0.0.4",
-    "astro": "^5.14.1",
+    "astro": "^5.14.5",
     "iso8601-duration": "^2.1.2",
     "octokit": "^4.0.2",
     "sharp": "^0.32.5",
