@@ -31,4 +31,5 @@ Misschien hoort dit niet echt hier, maar ik wet wel ergens laten omdat het me we
 Als eerste moet je `bundle install` doen om ontbrekende gems te installeren. Dat was bij mij niet voldoende. Ik heb `bundle upgrade` gedaan om bundle bij te werken, maar toen miste hij nog iets. Bleek dat er zoiets als "webrick" mist. De gem kun je toevoegen door `bundle add webrick` te doen en daarna natuurlijk weer `bundle install`. Dan lijkt het allemaal wel weer redelijk te werken.
 
 ## Thuisarts.nl
+
 Thuisarts.nl is een prachtige website vol met handige wetenschappelijk onderbouwde informatie. Zie ook [thuisarts.nl](https://www.thuisarts.nl/zoeken?s=kabouter)
