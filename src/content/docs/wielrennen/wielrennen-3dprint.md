@@ -3,7 +3,7 @@ title: Wielren 3d prints
 parent: Wielrennen
 ---
 
-Handige 3d modellen (stl) voor op de racefiets! Uiteraard, waar mogelijk, geensnor branded.
+Handige 3d modellen (stl) voor op de racefiets! Uiteraard, waar mogelijk, Geensnor branded.
 
 | Wat                 | Plaatje                                                                                                                                                                                                   | URL                                                  |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |

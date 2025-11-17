@@ -3,7 +3,7 @@ title: Pi-hole op je Raspberry Pi
 tableOfContents: true
 ---
 
-Eerder verschenen op [geensnor.nl](https://geensnor.netlify.app/pi-hole-voor-beginners/)
+Eerder verschenen op [Geensnor.nl](https://geensnor.netlify.app/pi-hole-voor-beginners/)
 
 [Pi-hole](https://pi-hole.net/) is een applicatie die internetadvertenties en trackers blokkeert op je thuisnetwerk. Pi-hole kun je op allerlei manieren installeren en gebruiken. Hieronder leg ik een (relatief..) eenvoudige manier uit en laat ik zien wat je ervoor moet kopen. Als je Pi-hole eenmaal hebt geconfigureerd, worden advertenties op al je apparaten in huis automatisch geblokkeerd.
 
@@ -18,7 +18,7 @@ Het enige wat je van tevoren nodig hebt is:
 
 ## 1. Kopen
 
-Voordat je kan beginnen moet je wat dingen kopen. En een Pi-hole mag dan wel advertenties tegenhouden, maar dit artikel staat helemaal strak van de Bol.com affiliate links. Voor geensnor.nl moet ook gewoon elk jaar de portemonee getrokken worden...
+Voordat je kan beginnen moet je wat dingen kopen. En een Pi-hole mag dan wel advertenties tegenhouden, maar dit artikel staat helemaal strak van de Bol.com affiliate links. Voor Geensnor.nl moet ook gewoon elk jaar de portemonee getrokken worden...
 
 Ten eerste natuurlijk een Raspberry Pi waar we Pi-hole op gaan installeren. De goedkoopste en kleinste is voldoende voor Pi-hole.
 
@@ -38,7 +38,7 @@ Nu je alle hardware hebt, wordt het tijd voor wat software.
 
 ### Besturingssysteem
 
-Als eerste moeten we het besturingssysteem van de Raspberry Pi op de SD kaart zetten. Daarvoor moet het het volgende doen
+Als eerste moeten we het besturingssysteem van de Raspberry Pi op de SD kaart zetten. Daarvoor moet je het volgende doen
 
 1. Stop de SD kaart in je computer.
 2. Download de Raspberry Pi Imager van [https://www.raspberrypi.org/software/](https://www.raspberrypi.org/software/)
@@ -110,7 +110,7 @@ Nu de Raspberry Pi is geconfigureerd, kan Pi-hole erop gezet worden.
 
 ### Router configureren
 
-Als laatste moet je ervoor zorgen dat al je apparaten van je netwerk hun DNS verkeer via de Pi-hole laten lopen. Wat je hiervoor precies moet doen is lastig uit te leggen om dat dat in je router moet gebeuren en dat dus voor elke router anders is. Wel belangrijk is dat je ervoor zorgt dat de apparaten je Pi-hole gaan gebruiken en niet alleen de router zelf. Daarvoor zul je de apparaten het nieuwe DNS adres moeten vertellen tijdens het uitdelen van de IP adressen door de DHCP server. Het komt ongeveer hier op neer:
+Als laatste moet je ervoor zorgen dat al je apparaten van je netwerk hun DNS verkeer via de Pi-hole laten lopen. Wat je hiervoor precies moet doen is lastig uit te leggen omdat dat in je router moet gebeuren en dat dus voor elke router anders is. Wel belangrijk is dat je ervoor zorgt dat de apparaten je Pi-hole gaan gebruiken en niet alleen de router zelf. Daarvoor zul je de apparaten het nieuwe DNS adres moeten vertellen tijdens het uitdelen van de IP adressen door de DHCP server. Het komt ongeveer hier op neer:
 
 1. Login op je router
 2. Zoek ergens "DHCP settings" ofzoiets op. Een DHCP server deelt niet alleen IP adressen uit aan de apparaten op je netwerk maar vertelt ook welke DNS server de clients mogen gebruiken. Standaard is dat de router zelf maar dat wil je via de Pi-hole laten lopen.
