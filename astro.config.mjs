@@ -11,7 +11,10 @@ export default defineConfig({
     plugins: [yaml()],
   },
   integrations: [
-    umami({ id: "a609a09c-e6fe-48dd-b07b-330e8a22a273" }),
+    umami({
+      id: "a609a09c-e6fe-48dd-b07b-330e8a22a273",
+      endpointUrl: "https://umami-bezoekers.vercel.app",
+    }),
     starlight({
       head: [
         {
