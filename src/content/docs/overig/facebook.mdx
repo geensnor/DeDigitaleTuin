@@ -11,6 +11,8 @@ Mark Zuckerberg is overigens doodsbang geworden van dit overzicht. Nadat het een
 
 We hebben inmiddels {schandalen.length} schandalen en het loopt nog steeds op!
 
+🏛️: Link naar bron op [Internet Archive](https://archive.org/)
+
 <table>
   <tr>
     <th>datum</th>
@@ -20,9 +22,11 @@ We hebben inmiddels {schandalen.length} schandalen en het loopt nog steeds op!
 
 {schandalen.map((schandaal) => <tr>
 
-<td>{schandaal.datum}</td>
-<td>{schandaal.schandaal}</td>
-<td><a href={schandaal.url}>{schandaal.bron}</a></td>
+  <td>{schandaal.datum}</td>
+  <td>{schandaal.schandaal}</td>
+  <td><a target="_blank" href={schandaal.url}>{schandaal.bron}</a>
+    {schandaal.archief &&  <> <a title="Bron op Internet Archive" target="_blank" href={schandaal.archief}>🏛️</a></>}
+  </td>
 </tr>
 )}
 
