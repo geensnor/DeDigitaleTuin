@@ -1,4 +1,4 @@
 accept = ["200", "401", "403", "429", "302"]
-mode = "emoji"
 output = "links-report.md"
-include = ['https://www.dedigitaletuin.nl/overig/facebook-schandalen/']
+mode = "emoji"
+format = "Detailed"
