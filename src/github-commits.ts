@@ -47,5 +47,4 @@ if (GitHubPAT === undefined || GitHubPAT === null) {
       };
     });
 }
-console.log(displayCommits);
 export { displayCommits, GitHubPAT };
