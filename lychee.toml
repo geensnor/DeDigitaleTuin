@@ -1,4 +1,4 @@
 accept = ["200", "401", "403", "429", "302"]
 output = "links-report.md"
 mode = "emoji"
-format = "Detailed"
+format = "detailed"
