@@ -9,6 +9,9 @@ export default defineConfig({
   site: "https://www.dedigitaletuin.nl",
   vite: {
     plugins: [yaml()],
+    ssr: {
+      noExternal: ["@geensnor/tokens", "@fontsource-variable/work-sans"],
+    },
   },
   integrations: [
     umami({

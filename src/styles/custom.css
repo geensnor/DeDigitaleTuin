@@ -1,3 +1,5 @@
+@import "../../node_modules/@geensnor/tokens/src/tokens.css";
+
 :root{
 	--sl-color-text-accent: hsl(15.8, 87.98%, 54.31%);
 	--sl-font: 'Work sans';
@@ -6,6 +8,21 @@
 
 h1, h2, h3, h4, .site-title{
 	font-family: "Zilla slab";
+}
+
+h2 {
+	font-size: var(--geensnor-font-size-xxl);
+	color: var(--geensnor-oranje-100);
+	font-family: var(--geensnor-font-family-headings);
+	font-weight: var(--geensnor-font-weight-bold);
+	margin-bottom: var(--geensnor-spacing-m);
+}
+h3 {
+	font-size: var(--geensnor-font-size-l);
+	color: var(--geensnor-oranje-100);
+	font-family: var(--geensnor-font-family-headings);
+	font-weight: var(--geensnor-font-weight-bold);
+	margin-bottom: var(--geensnor-spacing-m);
 }
 
 .task-list-item{
