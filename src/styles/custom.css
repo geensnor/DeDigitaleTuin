@@ -6,12 +6,12 @@
 	--sl-content-width: 60rem;
 }
 
-h1, h2, h3, h4, .site-title{
-	font-family: "Zilla slab";
+h1, h4, .site-title{
+	font-family: var(--geensnor-font-family-headings);
 }
 
 h2 {
-	font-size: var(--geensnor-font-size-xxl);
+	font-size: var(--geensnor-font-size-2xl);
 	color: var(--geensnor-oranje-100);
 	font-family: var(--geensnor-font-family-headings);
 	font-weight: var(--geensnor-font-weight-bold);
