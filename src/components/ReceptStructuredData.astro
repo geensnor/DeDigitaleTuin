@@ -1,15 +1,87 @@
 ---
 const { recept } = Astro.props;
 
+// get markdown source
+async function getBodySource() {
+  if (!recept) return "";
+  if (typeof recept.body === "string") return recept.body;
+  if (recept.render) {
+    const rendered = await recept.render();
+    return rendered?.html ?? "";
+  }
+  return "";
+}
+
+function extractFromMarkdown(md: string, heading: string) {
+  const re = new RegExp(
+    "(^|\\n)##\\s*" + heading + "[^\\n]*\\n([\\s\\S]*?)(\\n##\\s|$)",
+    "i"
+  );
+  const m = md.match(re);
+  return m ? m[2].trim() : "";
+}
+
+function parseIngredientsFromBlock(block: string) {
+  const items = [];
+  const liRegex = /(^|\n)[-*]\s*(.+)/g;
+  let match;
+  while ((match = liRegex.exec(block))) items.push(match[2].trim());
+  if (items.length === 0) {
+    block.split(/\n+/).forEach((line: string) => {
+      const t = line.replace(/^[\d\.\)\s-]*/, "").trim();
+      if (t) items.push(t);
+    });
+  }
+  return items;
+}
+
+function parseInstructionsFromBlock(block: string) {
+  const steps = [];
+  const numRegex = /(^|\n)\s*\d+[\.\)]\s*(.+)/g;
+  let match;
+  while ((match = numRegex.exec(block))) steps.push(match[2].trim());
+  if (steps.length === 0) {
+    // split by lines or paragraphs
+    block.split(/\n+/).forEach((line: string) => {
+      const t = line.replace(/^[\-\*\d\.\)\s]*/, "").trim();
+      if (t) steps.push(t);
+    });
+  }
+  return steps;
+}
+
+const bodySource = await getBodySource();
+
+let ingredients: string[] = [];
+let instructions: any[] = [];
+
+// try markdown extraction (headings are always "Ingrediënten" / "Bereiding" per spec; using flexible match)
+if (bodySource && !bodySource.startsWith("<")) {
+  const ingBlock = extractFromMarkdown(bodySource, "Ingredi\\w*");
+  const insBlock = extractFromMarkdown(bodySource, "Bereid\\w*");
+  if (ingBlock) ingredients = parseIngredientsFromBlock(ingBlock);
+  if (insBlock) instructions = parseInstructionsFromBlock(insBlock);
+}
+
 const structuredData = {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  name: recept.data.name,
+  name: recept?.data?.name,
   url: Astro.site?.href + Astro.url.pathname,
-  totalTime: recept.data.totalTime,
-  image: recept.data.image,
-  recipeCategory: recept.data.recipeCategory,
+  totalTime: recept?.data?.totalTime ?? recept?.data?.cookTime,
+  image: recept?.data?.image,
+  recipeCategory: recept?.data?.recipeCategory,
+  recipeYield: recept?.data?.recipeYield,
+  recipeIngredient: ingredients,
+  recipeInstructions: instructions.map((s) => ({
+    "@type": "HowToStep",
+    text: s,
+  })),
 };
 ---
 
-<script is:inline type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+<script
+  is:inline
+  type="application/ld+json"
+  set:html={JSON.stringify(structuredData)}
+/>
