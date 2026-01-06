@@ -4,17 +4,17 @@ title: Games
 
 Spelletjes. Altijd leuk.
 
-| Wat                                                                     | URL                                                                   |
-| ----------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Setten. Bestaat ook als kaartspel, maar dan online.                     | [setwithfriends.com/](https://setwithfriends.com/)                    |
-| Textbased zeilspelletje online                                          | [8bitbyte.ca/sailnavsim](https://8bitbyte.ca/sailnavsim)              |
-| Soort Airhockey, maar dan leuker. Multiplayer op één iPhone! Hij lijkt alleen niet echt meer te bestaan in de Appstore...            | [https://sennepgames.com/olo](https://sennepgames.com/olo) |
-| Als je ooit iets met schaken op internet wil doen                       | [lichess.org](https://lichess.org/)                                   |
-| Doom online en eventueel MP. Omdat je altijd ff kan doomen              | [doom](https://silentspacemarine.com/)                                |
-| Moving Out. Leuk, origineel spel van de makers van Worms                | [Moving Out](https://www.team17.com/games/moving-out/)                |
-| Balanceer spelletje met je telefoon                                     | [balanc3dgame.com](https://www.balanc3dgame.com)                      |
-| Verslavend hak-en-mep spelletje. Zorg wel dat je vier controllers hebt. | [boomerangfu.com](https://www.boomerangfu.com/)                       |
-| Risk achtig online strategiespel                                        | [openfront.io](https://openfront.io/)                                 |
+| Wat                                                                                                                       | URL                                                        |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Setten. Bestaat ook als kaartspel, maar dan online.                                                                       | [setwithfriends.com/](https://setwithfriends.com/)         |
+| Textbased zeilspelletje online                                                                                            | [8bitbyte.ca/sailnavsim](https://8bitbyte.ca/sailnavsim)   |
+| Soort Airhockey, maar dan leuker. Multiplayer op één iPhone! Hij lijkt alleen niet echt meer te bestaan in de Appstore... | [https://sennepgames.com/olo](https://sennepgames.com/olo) |
+| Als je ooit iets met schaken op internet wil doen                                                                         | [lichess.org](https://lichess.org/)                        |
+| Doom online en eventueel MP. Omdat je altijd ff kan doomen                                                                | [doom](https://silentspacemarine.com/)                     |
+| Moving Out. Leuk, origineel spel van de makers van Worms                                                                  | [Moving Out](https://www.team17.com/games/moving-out/)     |
+| Balanceer spelletje met je telefoon                                                                                       | [balanc3dgame.com](https://www.balanc3dgame.com)           |
+| Verslavend hak-en-mep spelletje. Zorg wel dat je vier controllers hebt.                                                   | [boomerangfu.com](https://www.boomerangfu.com/)            |
+| Risk achtig online strategiespel                                                                                          | [openfront.io](https://openfront.io/)                      |
 
 ## Open Source Real Time Strategy (RTS)
 
