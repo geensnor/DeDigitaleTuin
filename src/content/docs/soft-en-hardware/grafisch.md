@@ -6,10 +6,10 @@ Plaatjes, diagrammen, foto's, tekeningen. Het oog wil ook wat...
 
 ## Voor op je computer of telefoon
 
-| Wat           | Doet wat                       | Platform                | URL                              | Toelichting     |                                                                                                                                                            |
-| ------------- | ------------------------------ | ----------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Photo Sweeper | Duplicated vinden in je foto's | macOS                   | [website](https://overmacs.com/) | Super handig tooltje om op disk (of zelfs in je Apple Photos) duplicates te vinden. Kost wel wat geld, namelijk 10 euro, maar is het waard. Ik heb vele gb's kunnen besparen. |
-Tonphoto      | Foto's beheren                 | macOS, Windows en Linux |                                   [tonfotos.com](https://tonfotos.com/nl/)                                                                                                                                      | Aardige applicatie om foto's te beheren. Niet gratis, maar dat hoeft ook niet altijd. Maken wel rare blogposts met AI. |
+| Wat           | Doet wat                       | Platform                | URL                                      | Toelichting                                                                                                                                                                   |     |
+| ------------- | ------------------------------ | ----------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Photo Sweeper | Duplicated vinden in je foto's | macOS                   | [website](https://overmacs.com/)         | Super handig tooltje om op disk (of zelfs in je Apple Photos) duplicates te vinden. Kost wel wat geld, namelijk 10 euro, maar is het waard. Ik heb vele gb's kunnen besparen. |
+| Tonphoto      | Foto's beheren                 | macOS, Windows en Linux | [tonfotos.com](https://tonfotos.com/nl/) | Aardige applicatie om foto's te beheren. Niet gratis, maar dat hoeft ook niet altijd. Maken wel rare blogposts met AI.                                                        |
 
 ## Web tools
 
