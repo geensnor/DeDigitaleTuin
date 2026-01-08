@@ -4,6 +4,12 @@
 	--sl-color-text-accent: hsl(15.8, 87.98%, 54.31%);
 	--sl-font: 'Work sans';
 	--sl-content-width: 60rem;
+
+	.sl-markdown-content :is(iframe):not(:where(.not-content *)) {
+			display: block;
+			max-width: 100%;
+			height: 500px;
+		}
 }
 
 h1, h4, .site-title{
@@ -37,3 +43,4 @@ h3 {
 .metadata-table{
 	margin-bottom: 50px;
 }
+
