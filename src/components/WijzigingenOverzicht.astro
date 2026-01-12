@@ -15,7 +15,7 @@ import { displayCommits, GitHubPAT } from "../github-commits";
         .map((commit: any) => (
           <tr>
             <td>
-              <a target="_blank" href={commit.html_url}>
+              <a href={commit.html_url} target="_blank">
                 {commit.bericht}
               </a>
             </td>

@@ -10,7 +10,7 @@ if (GitHubPAT === undefined || GitHubPAT === null) {
   );
 } else {
   const octokit = new Octokit({ auth: GitHubPAT });
-  let commits = await octokit.request(
+  const commits = await octokit.request(
     "GET /repos/geensnor/DeDigitaleTuin/commits",
     {
       owner: "geensnor",
@@ -24,8 +24,8 @@ if (GitHubPAT === undefined || GitHubPAT === null) {
 
   //nieuwste commit eerst
   commits.data.sort((a: any, b: any) => {
-    let dateA = new Date(a.commit.author.date);
-    let dateB = new Date(b.commit.author.date);
+    const dateA = new Date(a.commit.author.date);
+    const dateB = new Date(b.commit.author.date);
 
     return dateB.getTime() - dateA.getTime();
   });
@@ -33,10 +33,10 @@ if (GitHubPAT === undefined || GitHubPAT === null) {
   displayCommits = commits.data
     .filter((commit: any) => commit.commit.message !== "Prettified Code!")
     .map((commit: any) => {
-      let date = new Date(commit.commit.author.date);
-      let day = String(date.getDate()).padStart(2, "0");
-      let month = String(date.getMonth() + 1).padStart(2, "0");
-      let year = date.getFullYear();
+      const date = new Date(commit.commit.author.date);
+      const day = String(date.getDate()).padStart(2, "0");
+      const month = String(date.getMonth() + 1).padStart(2, "0");
+      const year = date.getFullYear();
 
       return {
         auteur: commit.commit.author.name,
