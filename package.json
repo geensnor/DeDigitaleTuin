@@ -8,7 +8,9 @@
     "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "linkcheck": "lychee --config lychee.toml src/"
+    "linkcheck": "lychee --config lychee.toml src/",
+    "lint:fix": "npx eslint ./src --fix",
+    "lint:check": "npx eslint ./src"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.5",
@@ -19,6 +21,7 @@
     "@geensnor/astro-componenten": "^2.1.10",
     "@yeskunall/astro-umami": "^0.0.7",
     "astro": "^5.16.3",
+    "eslint-plugin-astro": "^1.5.0",
     "iso8601-duration": "^2.1.2",
     "octokit": "^4.0.2",
     "sharp": "^0.32.5",
@@ -26,6 +29,12 @@
     "typescript": "^5.9.2"
   },
   "devDependencies": {
-    "@rollup/plugin-yaml": "^4.1.2"
+    "@eslint/css": "^0.14.1",
+    "@eslint/json": "^0.14.0",
+    "@eslint/js": "^9.39.2",
+    "@rollup/plugin-yaml": "^4.1.2",
+    "eslint": "^9.39.2",
+    "globals": "^17.0.0",
+    "typescript-eslint": "^8.52.0"
   }
 }
