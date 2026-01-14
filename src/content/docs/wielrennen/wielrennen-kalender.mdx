@@ -15,36 +15,36 @@ Handig overzicht van een aantal aankomende wielerkoersen. Voeg toe aan je eigen 
 <table>
   <thead>
     <tr>
-        <th>koers</th>
-        <th>start</th>
-        <th>finish</th>
+      <th>koers</th>
+      <th>start</th>
+      <th>finish</th>
     </tr>
   </thead>
   <tbody>
-{koersdata
-  .filter((koers) => {
-    const [dag, maand, jaar] = koers.start.split('-');
-    const startDatum = new Date(jaar, maand - 1, dag);
-    return startDatum > new Date();
-  })
-  .sort((a, b) => {
-    const [dagA, maandA, jaarA] = a.start.split('-');
-    const [dagB, maandB, jaarB] = b.start.split('-');
-    const datumA = new Date(jaarA, maandA - 1, dagA);
-    const datumB = new Date(jaarB, maandB - 1, dagB);
-    return datumA - datumB; // Verander dit naar datumA - datumB
-  })
-  .map((koers) => {
-    // Als de finish leeg is, is de finish gelijk aan de start
-    const finish = koers.finish ? koers.finish : koers.start;
-    
-    return (
-      <tr key={koers.id || koers.naam}>
-        <td>{koers.naam}</td>
-        <td>{koers.start}</td>
-        <td>{finish}</td>
-      </tr>
-    );
-  })}
-    </tbody>
+    {koersdata
+      .filter((koers) => {
+        const [dag, maand, jaar] = koers.start.split("-");
+        const startDatum = new Date(jaar, maand - 1, dag);
+        return startDatum > new Date();
+      })
+      .sort((a, b) => {
+        const [dagA, maandA, jaarA] = a.start.split("-");
+        const [dagB, maandB, jaarB] = b.start.split("-");
+        const datumA = new Date(jaarA, maandA - 1, dagA);
+        const datumB = new Date(jaarB, maandB - 1, dagB);
+        return datumA - datumB; // Verander dit naar datumA - datumB
+      })
+      .map((koers) => {
+        // Als de finish leeg is, is de finish gelijk aan de start
+        const finish = koers.finish ? koers.finish : koers.start;
+
+        return (
+          <tr key={koers.id || koers.naam}>
+            <td>{koers.naam}</td>
+            <td>{koers.start}</td>
+            <td>{finish}</td>
+          </tr>
+        );
+      })}
+  </tbody>
 </table>
