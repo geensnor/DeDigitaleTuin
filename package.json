@@ -22,6 +22,7 @@
     "@yeskunall/astro-umami": "^0.0.7",
     "astro": "^5.16.3",
     "eslint-plugin-astro": "^1.5.0",
+    "ical-generator": "^10.0.0",
     "iso8601-duration": "^2.1.2",
     "octokit": "^4.0.2",
     "sharp": "^0.32.5",

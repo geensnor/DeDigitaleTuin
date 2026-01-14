@@ -3,6 +3,7 @@ import starlight from "@astrojs/starlight";
 import starlightLinksValidator from "starlight-links-validator";
 import yaml from "@rollup/plugin-yaml";
 import umami from "@yeskunall/astro-umami";
+import { genereerWielrenkalender } from "./src/wielren-kalender";
 
 // https://astro.build/config
 export default defineConfig({
@@ -14,6 +15,7 @@ export default defineConfig({
     },
   },
   integrations: [
+    genereerWielrenkalender(),
     umami({
       id: "a609a09c-e6fe-48dd-b07b-330e8a22a273",
       endpointUrl: "https://umami-bezoekers.vercel.app",
