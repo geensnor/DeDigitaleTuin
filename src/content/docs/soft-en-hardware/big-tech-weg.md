@@ -48,9 +48,10 @@ De bestaande regels blijven ook gewoon werken.
 
 ## Overig
 
-| Wat?                                                                                                                                                           | Website                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Soms wil je toch iets specifieks op Twitter bekijken, maar je hebt (natuurlijk) geen account. Via deze site kun je een voorzichtig kijkje nemen in de beerput. | [https://xcancel.com/](https://xcancel.com/)                   |
-| Hetzelfde als hierboven (wel content, niet de troep) maar dan van Instagram                                                                                    | [https://imginn.com](https://imginn.com)                       |
-| Wat is Open Source en is het wel echt Open Source als ze zeggen dat het Open Source is. Controleer het hier!                                                   | [isitreallyfoss.com](https://isitreallyfoss.com/)              |
-| Mooi overzicht van Nederlandse politici en partijen op Mastodon. Afkomstig uit de Geensnor stal.                                                               | [politici-op-mastodon.nl](https://www.politici-op-mastodon.nl) |
+| Wat?                                                                                                                                                           | Website                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Soms wil je toch iets specifieks op Twitter bekijken, maar je hebt (natuurlijk) geen account. Via deze site kun je een voorzichtig kijkje nemen in de beerput. | [https://xcancel.com/](https://xcancel.com/)                               |
+| Hetzelfde als hierboven (wel content, niet de troep) maar dan van Instagram                                                                                    | [https://imginn.com](https://imginn.com)                                   |
+| Wat is Open Source en is het wel echt Open Source als ze zeggen dat het Open Source is. Controleer het hier!                                                   | [https://isitreallyfoss.com](https://isitreallyfoss.com/)                  |
+| Mooi overzicht van Nederlandse politici en partijen op Mastodon. Afkomstig uit de Geensnor stal.                                                               | [https://www.politici-op-mastodon.nl](https://www.politici-op-mastodon.nl) |
+| Overzicht van welke Tweede Kamerleden nog op Twitter zitten en welke niet. Ook hier heeft Geensnor weer een steentje bijgedragen.                              | [https://leavex.eu/politicians-nl/](https://leavex.eu/politicians-nl/)     |
