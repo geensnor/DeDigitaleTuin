@@ -6,19 +6,19 @@ Nu was MAANGMULA (Meta, Amazon, Apple, Netflix, Google, Microsoft, Uber, Lyft en
 
 ## Leuke initiatieven
 
-| Website                                                      | Toelichting                                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Website                                                                                  | Toelichting                                                                                  |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | [Bits of freedom campagne](https://www.bitsoffreedom.nl/campagnes/stap-af-van-big-tech/) | Bits of Freedom heeft een campagne met handige tips voor mensen die weg willen van big tech! |
 
 ## Andere lijsten met alternatieven
 
-| Website                                                      | Toelichting                                               |
-| ------------------------------------------------------------ | --------------------------------------------------------- |
-| [https://european-alternatives.eu/](https://european-alternatives.eu/) | Site met Europeese alternatieven voor diensten uit de VS. |
-| [https://www.opensourcealternative.to/](https://www.opensourcealternative.to/) | Site met Open Source alternatieven voor gesloten software |
+| Website                                                                                        | Toelichting                                               |
+| ---------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [https://european-alternatives.eu/](https://european-alternatives.eu/)                         | Site met Europeese alternatieven voor diensten uit de VS. |
+| [https://www.opensourcealternative.to/](https://www.opensourcealternative.to/)                 | Site met Open Source alternatieven voor gesloten software |
 | [Lijst op Gathering of Tweakers](https://gathering.tweakers.net/forum/list_messages/2285628/0) | Lijst van Tweakers                                        |
-| [En een lijst van een Tweakers user Cambionn](https://gitlab.com/cambionn-random/altlist) | Een super lange lijst met allerlei toffe alternatieven    |
-| [Privacy guides](https://www.privacyguides.org/en/)          | Engelse lijst van Privacy guides. Tip                     |
+| [En een lijst van een Tweakers user Cambionn](https://gitlab.com/cambionn-random/altlist)      | Een super lange lijst met allerlei toffe alternatieven    |
+| [Privacy guides](https://www.privacyguides.org/en/)                                            | Engelse lijst van Privacy guides. Tip                     |
 
 ## Alternatieve producten en diensten
 
