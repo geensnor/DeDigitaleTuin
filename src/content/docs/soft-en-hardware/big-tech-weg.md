@@ -4,13 +4,21 @@ title: Weg met Big Tech
 
 Nu was MAANGMULA (Meta, Amazon, Apple, Netflix, Google, Microsoft, Uber, Lyft en Airbnb) al [nooit veel soeps](/overig/facebook-schandalen), maar omdat we de VS niet meer serieus kunnen nemen als democratie, moeten we maar eens afscheid nemen van die meuk. Niet alleen Big Tech, maar ook VS Tech dus. Om hiermee te helpen, hebben we hieronder een mooi overzicht gemaakt. Uiteraard met een schung, flair en joie de vivre die De Digitale Tuin van [Geensnor](https://www.geensnor.nl) zich al jaren kenmerkt.
 
+## Leuke initiatieven
+
+| Website                                                      | Toelichting                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Bits of freedom campagne](https://www.bitsoffreedom.nl/campagnes/stap-af-van-big-tech/) | Bits of Freedom heeft een campagne met handige tips voor mensen die weg willen van big tech! |
+
 ## Andere lijsten met alternatieven
 
-| Website                                                                                        | Toelichting                                               |
-| ---------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| [https://european-alternatives.eu/](https://european-alternatives.eu/)                         | Site met Europeese alternatieven voor diensten uit de VS. |
-| [https://www.opensourcealternative.to/](https://www.opensourcealternative.to/)                 | Site met Open Source alternatieven voor gesloten software |
+| Website                                                      | Toelichting                                               |
+| ------------------------------------------------------------ | --------------------------------------------------------- |
+| [https://european-alternatives.eu/](https://european-alternatives.eu/) | Site met Europeese alternatieven voor diensten uit de VS. |
+| [https://www.opensourcealternative.to/](https://www.opensourcealternative.to/) | Site met Open Source alternatieven voor gesloten software |
 | [Lijst op Gathering of Tweakers](https://gathering.tweakers.net/forum/list_messages/2285628/0) | Lijst van Tweakers                                        |
+| [En een lijst van een Tweakers user Cambionn](https://gitlab.com/cambionn-random/altlist) | Een super lange lijst met allerlei toffe alternatieven    |
+| [Privacy guides](https://www.privacyguides.org/en/)          | Engelse lijst van Privacy guides. Tip                     |
 
 ## Alternatieve producten en diensten
 
