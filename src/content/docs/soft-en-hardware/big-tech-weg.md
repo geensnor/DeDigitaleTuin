@@ -2,7 +2,7 @@
 title: Weg met Big Tech
 ---
 
-Nu was MAANGMULA (Meta, Amazon, Apple, Netflix, Google, Microsoft, Uber, Lyft en Airbnb) al [nooit veel soeps](/overig/facebook-schandalen), maar omdat we de VS niet meer serieus kunnen nemen als democratie, moeten we maar eens afscheid nemen van die meuk. Niet alleen Big Tech, maar ook VS Tech dus. Om hiermee te helpen, hebben we hieronder een mooi overzicht gemaakt. Uiteraard met een schung, flair en joie de vivre die De Digitale Tuin van [Geensnor](https://www.geensnor.nl) zich al jaren kenmerkt.
+Nu was MAANGMULA (Meta, Amazon, Apple, Netflix, Google, Microsoft, Uber, Lyft en Airbnb) al [nooit veel soeps](https://www.dedigitaletuin.nl/overig/facebook-schandalen), maar omdat we de VS niet meer serieus kunnen nemen als democratie, moeten we maar eens afscheid nemen van die meuk. Niet alleen Big Tech, maar ook VS Tech dus. Om hiermee te helpen, hebben we hieronder een mooi overzicht gemaakt. Uiteraard met een schung, flair en joie de vivre die De Digitale Tuin van [Geensnor](https://www.geensnor.nl) zich al jaren kenmerkt.
 
 ## Leuke initiatieven
 
