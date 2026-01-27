@@ -31,7 +31,7 @@ export default defineConfig({
             "@context": "https://schema.org",
             "@type": "WebSite",
             name: "De Digitale Tuin",
-            url: "https://wwww.dedigitaletuin.nl",
+            url: "https://www.dedigitaletuin.nl",
             description: "Een bonte verzameling van allerlei aardigheden.",
             license: {
               "@type": "CreativeWork",
