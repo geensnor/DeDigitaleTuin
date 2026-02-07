@@ -24,8 +24,6 @@ Overig - Overig. Ook wij hebben een zooi aardigheden die we niet goed kunnen cat
 
 [https://t.me/addstickers/geensnor](https://t.me/addstickers/geensnor)
 
-## Jekyll problemen na macOS upgrade
+## Errorcode 15 bij een Siemens vaatwasser
 
-Misschien hoort dit niet echt hier, maar ik wet wel ergens laten omdat het me wel wat uitzoekwerk heeft gekost. Na de OS upgrade van macOS naar Monterey was m'n Jekyll installatie naar de maan.
-
-Als eerste moet je `bundle install` doen om ontbrekende gems te installeren. Dat was bij mij niet voldoende. Ik heb `bundle upgrade` gedaan om bundle bij te werken, maar toen miste hij nog iets. Bleek dat er zoiets als "webrick" mist. De gem kun je toevoegen door `bundle add webrick` te doen en daarna natuurlijk weer `bundle install`. Dan lijkt het allemaal wel weer redelijk te werken.
+Waarschijnlijk zit er ergens water waar geen water moet zitten. Ik heb deze code al twee keer gefixed door de vaatwasser goed te laten drogen. Paar uur ofzo. Vaat eruit, stroom eraf, alvast droog maken van binne, eventueel wat warme lucht erin blazen. Dat werk...
