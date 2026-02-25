@@ -143,13 +143,20 @@ export default defineConfig({
           autogenerate: { directory: "wielrennen" },
         },
         {
-          label: "Soft- en hardware",
-          autogenerate: { directory: "soft-en-hardware" },
-        },
-        {
           label: "Lijsten",
           collapsed: false,
           autogenerate: { directory: "lijsten" },
+        },
+
+        {
+          label: "Overig",
+          collapsed: false,
+          autogenerate: { directory: "overig" },
+        },
+        {
+          label: "Soft- en hardware",
+          collapsed: true,
+          autogenerate: { directory: "soft-en-hardware" },
         },
         {
           label: "Eten en drinken",
@@ -160,11 +167,6 @@ export default defineConfig({
           label: "Kunst",
           collapsed: true,
           autogenerate: { directory: "kunst" },
-        },
-        {
-          label: "Overig",
-          collapsed: true,
-          autogenerate: { directory: "overig" },
         },
         {
           label: "Abonnementen",

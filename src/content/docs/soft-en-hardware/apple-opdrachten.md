@@ -1,9 +1,5 @@
 ---
 title: Apple Opdrachten
-sidebar:
-  badge:
-    text: Nieuw!
-    variant: success
 ---
 
 Met Apple Opdrachten (Apple Shortcuts in het engels) kun je kleine programmatjes in elkaar klikken op iPhones en Macs. Deze opdrachten kun je vervolgens ook weer vrij makkelijk delen en gebruiken. Hieronder de links naar een paar handige opdrachten
