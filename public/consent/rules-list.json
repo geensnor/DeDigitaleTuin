@@ -1,3 +1,6 @@
 {
-  "references": ["https://dedigitaletuin.nl/consent/dpgmedia.json"]
+  "references": [
+    "https://dedigitaletuin.nl/consent/dpgmedia.json",
+    "https://dedigitaletuin.nl/consent/solex.json"
+  ]
 }
