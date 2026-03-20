@@ -12,7 +12,7 @@ LoRa gebaseerd meshnetwerk voor tekstberichten. Ongeveer Meshtastic, maar dan be
 
 Natuurlijk is Geensnor ook op Meshcore aanwezig. Scan de code hieronder voor ons kanaal!
 
-![Geensnor meshcore qr code](/src/assets/meshcore-geensnor-qr.png)
+![Geensnor meshcore qr code](../../../assets/meshcore-geensnor-qr.png)
 
 ## Radio instellingen die werken
 
