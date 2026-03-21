@@ -1,6 +1,13 @@
 [
   {
     "datum": "maart 2026",
+    "schandaal": "Meta AI geeft Meta werknemer instructies die leiden tot enorm datalek.",
+    "bron": "The Guardian",
+    "url": "https://www.theguardian.com/technology/2026/mar/20/meta-ai-agents-instruction-causes-large-sensitive-data-leak-to-employees",
+    "archief": "https://web.archive.org/web/20260321085045/https://www.theguardian.com/technology/2026/mar/20/meta-ai-agents-instruction-causes-large-sensitive-data-leak-to-employees"
+  },
+  {
+    "datum": "maart 2026",
     "schandaal": "Meta staat meer onveilige content toe omdat het gebruikersbetrokkenheid vergrootte.",
     "bron": "BBC",
     "url": "https://www.bbc.com/news/articles/cqj9kgxqjwjo"
