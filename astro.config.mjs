@@ -82,6 +82,12 @@ export default defineConfig({
         {
           tag: "link",
           attrs: {
+            rel: "human-json",
+            href: "human.json",
+          },
+        {
+          tag: "link",
+          attrs: {
             rel: "manifest",
             href: "/favicon/site.webmanifest",
           },
