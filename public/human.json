@@ -1,0 +1,14 @@
+{
+  "version": "0.1.1",
+  "url": "https://www.dedigitaletuin.nl",
+  "vouches": [
+    {
+      "url": "https://www.geensnor.nl",
+      "vouched_at": "2026-03-23"
+    },
+    {
+      "url": "https://berthub.eu/",
+      "vouched_at": "2026-03-23"
+    }
+  ]
+}
