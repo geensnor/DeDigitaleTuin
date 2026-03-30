@@ -56,3 +56,5 @@ De bestaande regels blijven ook gewoon werken.
 | Mooi overzicht van Nederlandse politici en partijen op Mastodon. Afkomstig uit de Geensnor stal.                                                               | [https://www.politici-op-mastodon.nl](https://www.politici-op-mastodon.nl) |
 | Overzicht van welke Tweede Kamerleden nog op Twitter zitten en welke niet. Ook hier heeft Geensnor weer een steentje bijgedragen.                              | [https://leavex.eu/politicians-nl/](https://leavex.eu/politicians-nl/)     |
 | Website die weergeeft van welke organisaties (lees: Big Tech) we afhankelijk zijn                                                                              | [https://zijnwealautonoom.nl/](https://zijnwealautonoom.nl/)               |
+| JSON om kenbaar te maken dat je website wordt beheerd door een mens|[human.json](https://codeberg.org/robida/human.json)|
+| uBlock AI Blocklist|[https://github.com/alvi-se/ai-ublock-blacklist](https://github.com/alvi-se/ai-ublock-blacklist)|
