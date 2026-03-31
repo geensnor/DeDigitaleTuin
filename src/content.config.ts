@@ -1,9 +1,10 @@
 import { z, defineCollection } from "astro:content";
 import { glob } from "astro/loaders";
 import { docsSchema } from "@astrojs/starlight/schema";
+import { docsLoader } from "@astrojs/starlight/loaders";
 
 export const collections = {
-  docs: defineCollection({ schema: docsSchema() }),
+  docs: defineCollection({ schema: docsSchema(), loader: docsLoader() }),
   recepten: defineCollection({
     loader: glob({ pattern: "**/[^_]*.md", base: "./src/content/recepten" }),
     schema: z.object({
@@ -41,7 +42,7 @@ export const collections = {
             "LowSaltDiet",
             "VeganDiet",
             "VegetarianDiet",
-          ])
+          ]),
         )
         .optional(),
     }),

@@ -13,20 +13,20 @@
     "lint:check": "npx eslint ./src"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.5",
-    "@astrojs/rss": "^4.0.14",
-    "@astrojs/starlight": "^0.36.2",
+    "@astrojs/check": "^0.9.8",
+    "@astrojs/rss": "^4.0.18",
+    "@astrojs/starlight": "^0.38.2",
     "@fontsource-variable/work-sans": "^5.2.6",
     "@fontsource/zilla-slab": "^5.2.7",
     "@geensnor/astro-componenten": "^2.1.10",
     "@yeskunall/astro-umami": "^0.0.7",
-    "astro": "^5.16.3",
+    "astro": "^6.1.2",
     "eslint-plugin-astro": "^1.5.0",
     "ical-generator": "^10.0.0",
     "iso8601-duration": "^2.1.2",
     "octokit": "^4.0.2",
     "sharp": "^0.32.5",
-    "starlight-links-validator": "^0.17.2",
+    "starlight-links-validator": "^0.21.0",
     "typescript": "^5.9.2"
   },
   "devDependencies": {
