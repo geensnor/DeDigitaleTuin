@@ -83,7 +83,7 @@ export default defineConfig({
           tag: "link",
           attrs: {
             rel: "human-json",
-            href: "human.json",
+            href: "/human.json",
           },
         },
         {
