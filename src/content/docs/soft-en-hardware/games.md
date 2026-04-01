@@ -23,7 +23,7 @@ Spelletjes. Altijd leuk.
 | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | Age of Empires achtig spel. AI is vrij goed, of ik vrij slecht                                                                            | [0ad](https://play0ad.com/)                              |
 | Civilisation (van Sid), maar dan Open Source. Nog niet heel erg geprobeerd, maar het ziet er wel vet uit!                                 | [freeciv.org](https://www.freeciv.org/)                  |
-| Ongeveer hetzelfde als hierboven, maar dan in de browser.                                                                                 | [freecivweb.org](https://www.freecivweb.org/)            |
+| Ongeveer hetzelfde als hierboven, maar dan in de browser.                                                                                 | [freecivweb.org](https://freecivweb.com/)                |
 | Settlers 2 achtige RTS game                                                                                                               | [widelands.org](https://www.widelands.org)               |
 | Red Alert achtige RTS game                                                                                                                | [openra.net](https://www.openra.net)                     |
 | Total Annihilation achtige RTS game. Zie er erg uitgebreid en netjes uit. Helaas geen Mac versie                                          | [beyondallreason.info](https://www.beyondallreason.info) |

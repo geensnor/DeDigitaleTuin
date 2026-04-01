@@ -3,7 +3,7 @@ title: Pi-hole op je Raspberry Pi
 tableOfContents: true
 ---
 
-Eerder verschenen op [Geensnor.nl](https://geensnor.netlify.app/pi-hole-voor-beginners/)
+Eerder verschenen op [Geensnor.nl](https://blog.geensnor.nl/2020-12-18-pi-hole-voor-beginners/)
 
 [Pi-hole](https://pi-hole.net/) is een applicatie die internetadvertenties en trackers blokkeert op je thuisnetwerk. Pi-hole kun je op allerlei manieren installeren en gebruiken. Hieronder leg ik een (relatief..) eenvoudige manier uit en laat ik zien wat je ervoor moet kopen. Als je Pi-hole eenmaal hebt geconfigureerd, worden advertenties op al je apparaten in huis automatisch geblokkeerd.
 
