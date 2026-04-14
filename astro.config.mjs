@@ -89,13 +89,6 @@ export default defineConfig({
         {
           tag: "link",
           attrs: {
-            rel: "me",
-            href: "https://mastodon.xyz/@geensnor",
-          },
-        },
-        {
-          tag: "link",
-          attrs: {
             rel: "manifest",
             href: "/favicon/site.webmanifest",
           },
