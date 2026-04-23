@@ -30,3 +30,4 @@ Natuurlijk is Geensnor ook op Meshcore aanwezig. Scan de code hieronder voor ons
 - [Kaart met nodes](https://map.meshcore.dev/)
 - [Webflasher om Meshcore op je apparaat te zetten](https://flasher.meshcore.co.uk/)
 - [iOS app](https://apps.apple.com/us/app/meshcore/id6742354151)
+- [Officiele website](https://www.meshcore.io) (na [The Split](https://blog.meshcore.io/2026/04/23/the-split))
