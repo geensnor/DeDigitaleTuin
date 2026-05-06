@@ -5,9 +5,10 @@ tableOfContents: true
 
 ## Koffie
 
-| Wat          | Naam                                     | URL                                                                                             | Toelichting                                                                                                                                                                    |
-| ------------ | ---------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Wat | Naam | URL | Toelichting |
+| --- | ---- | --- | ----------- |
 | Koffie bonen | Perla Biologisch Aroma koffiebonen nr. 5 | [Albert Heijn](https://www.ah.nl/producten/product/wi171142/perla-biologisch-aroma-koffiebonen) | "Koffieliefhebbers kunnen hun hart ophalen met deze biologische koffie met een milde en evenwichtige smaak." zegt Albert Heijn en daar sluiten we ons in grote lijnen bij aan. |
+| Koffie bonen | Ethiopië Organic Filter | [Ethiopië Organic Filter op bootkoffie.nl](https://www.bootkoffie.nl/koffiebonen/filterkoffie/ethiopie-organic-filter) | Heerlijke fruitige filter bonen van Boot Koffie uit Baarn die sinds 1973 al heerlijke boontjes roosteren. Wat lichter, zuriger en fruitiger dan je reguliere bakje troost. |
 
 ### Aeropress
 
