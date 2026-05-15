@@ -40,14 +40,18 @@ Koffiezetten doe je natuurlijk met een Moccamaster. Dat is evident. Een aeropres
 | Ramon Bilbao Rioja Crianza 2019   | Tempranillo | Spanje     |                                                                                                          | Een Crianza (dus minstens twee jaar gerijpt, met een minimum van zes maanden op eikenhouten vaten). Lekker hoor! Tikkie zuurtje maar lekker dat houtgerijpte erin. Wel wat sterk. |
 | Lu Rappaio Primitivo di Manduria  | Primitivo   | Italië     | [Vivino](https://www.vivino.com/NL/nl/masca-del-tacco-puglia-lu-rappaio-primitivo-di-manduria/w/3872480) | Heerlijke Zuid-Italiaanse Primitivo. Veel rood fruit een een vleugje vanille. Al jaren onze vaste rode huiswijn.                                                                  |
 
-## Bier
+## Alcoholvrij bier
 
-| Naam                   | Brouwerij  | URL                                                                   | Toelichting                                                                                                                    |
-| ---------------------- | ---------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Pitt & Rubi            | Flügge     | [untappd.com](https://untappd.com/b/flugge-pitt-and-rubi/4013137)     | Zo lekker dat ik er een sticker van op m'n fiets heb geplakt. Hybride bier van bier en wijn. Geweldige combi                   |
-| Weide                  | Nevel      | [nevel.org](https://www.nevel.org/)                                   | Bitter bier met lokale Spalter hop. Niet te zurig. Heerlijk fris. Lekkerste van Nevel en dat wil wat zeggen.                   |
-| Zappes Sport           | Zappes     | [zappes-broi.de](https://www.zappes-broi.de/collections/zappes-sport) | Aardig lekker alcohol vrij pils. Gedronken toen ik erg dorstig was, dus wellicht was m'n beoordelingsvermogen iets vertroebeld |
-| Warsteiner Alcoholfrei | Warsteiner | [warsteiner.nl](https://www.warsteiner.nl/ons-bier/alkoholfrei)       | Lekkerste "gewone" alcohol vrije pils wat ik ken                                                                               |
+Of alcoholarm...
+
+| Naam                         | Brouwerij     | URL                                                                                    | Toelichting                                                                                                                    |
+| ---------------------------- | ------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Zappes Sport                 | Zappes        | [zappes-broi.de](https://www.zappes-broi.de/collections/zappes-sport)                  | Aardig lekker alcohol vrij pils. Gedronken toen ik erg dorstig was, dus wellicht was m'n beoordelingsvermogen iets vertroebeld |
+| Warsteiner Alcoholfrei       | Warsteiner    | [warsteiner.nl](https://www.warsteiner.nl/ons-bier/alkoholfrei)                        | Lekkerste "gewone" alcohol vrije pils wat ik ken                                                                               |
+| Sportzot                     | De Halve Maan | [sportzot.be](https://www.sportzot.be/nl)                                              | Hier zijn de meningen over verdeeld, maar ik vind hem lekker                                                                   |
+| Gulpner IPA 0,3%             | Gulpner       | [gulpner.nl](https://www.gulpener.nl/products/0-3-ipa/)                                | Meevallertje!                                                                                                                  |
+| Punk AF                      | Brewdog       | [brewdog.com](https://brewdog.com/products/punk-af)                                    | Met alchohol is hij lekker, zonder ook.                                                                                        |
+| Playground Non Alcoholic IPA | vandeStreek   | [vandestreekbier.nl](https://vandestreekbier.nl/products/playground-non-alcoholic-ipa) | Meeste bekroonde non-alcoholic IPA ter wereld. Nou, dan weet je dat je goed zit!                                               |
 
 ## Whisky
 
