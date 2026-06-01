@@ -147,38 +147,38 @@ export default defineConfig({
       sidebar: [
         {
           label: "Wielrennen",
-          autogenerate: { directory: "wielrennen" },
+          items: [{ autogenerate: { directory: "wielrennen" } }],
         },
         {
           label: "Lijsten",
           collapsed: false,
-          autogenerate: { directory: "lijsten" },
+          items: [{ autogenerate: { directory: "lijsten" } }],
         },
 
         {
           label: "Overig",
           collapsed: false,
-          autogenerate: { directory: "overig" },
+          items: [{ autogenerate: { directory: "overig" } }],
         },
         {
           label: "Soft- en hardware",
           collapsed: true,
-          autogenerate: { directory: "soft-en-hardware" },
+          items: [{ autogenerate: { directory: "soft-en-hardware" } }],
         },
         {
           label: "Eten en drinken",
           collapsed: true,
-          autogenerate: { directory: "eten-en-drinken" },
+          items: [{ autogenerate: { directory: "eten-en-drinken" } }],
         },
         {
           label: "Kunst",
           collapsed: true,
-          autogenerate: { directory: "kunst" },
+          items: [{ autogenerate: { directory: "kunst" } }],
         },
         {
           label: "Abonnementen",
           collapsed: true,
-          autogenerate: { directory: "abonnementen" },
+          items: [{ autogenerate: { directory: "abonnementen" } }],
         },
         { label: "Aanpassingen tuin", link: "laatste-aanpassingen" },
       ],

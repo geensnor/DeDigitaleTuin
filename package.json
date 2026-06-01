@@ -8,14 +8,14 @@
     "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "linkcheck": "lychee --config lychee.toml src/",
+    "linkcheck": "lychee --config lychee.toml src/ -v",
     "lint:fix": "npx eslint ./src --fix && npx markdownlint-cli2 --config .markdownlint-cli2.yaml",
     "lint:check": "npx eslint ./src"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.8",
     "@astrojs/rss": "^4.0.18",
-    "@astrojs/starlight": "^0.38.2",
+    "@astrojs/starlight": "^0.39.2",
     "@fontsource-variable/work-sans": "^5.2.6",
     "@fontsource/zilla-slab": "^5.2.7",
     "@geensnor/astro-componenten": "^2.1.11",
