@@ -1,3 +1,5 @@
+![Mooie digitale tuin](./src/assets/v2.jpg)
+
 # De Digitale Tuin
 
 De Digitale Tuin van Geensnor, een bonte verzameling van allerlei aardigheden.
