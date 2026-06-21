@@ -52,6 +52,7 @@ Of alcoholarm...
 | Gulpner IPA 0,3%             | Gulpner       | [gulpner.nl](https://www.gulpener.nl/products/0-3-ipa/)                                | Meevallertje!                                                                                                                  |
 | Punk AF                      | Brewdog       | [brewdog.com](https://brewdog.com/products/punk-af)                                    | Met alchohol is hij lekker, zonder ook.                                                                                        |
 | Playground Non Alcoholic IPA | vandeStreek   | [vandestreekbier.nl](https://vandestreekbier.nl/products/playground-non-alcoholic-ipa) | Meeste bekroonde non-alcoholic IPA ter wereld. Nou, dan weet je dat je goed zit!                                               |
+| Jever Fun|Jever|[jever-beer.com](https://www.jever-beer.com/nl/bieren/jever-fun/)|Heeft niet die weeige, muffe afdronk die bier met weinig alcohol nog wel eens heeft. Echt goed gelukt deze.|
 
 ## Whisky
 
