@@ -15,7 +15,7 @@ async function getBodySource() {
 function extractFromMarkdown(md: string, heading: string) {
   const re = new RegExp(
     "(^|\\n)##\\s*" + heading + "[^\\n]*\\n([\\s\\S]*?)(\\n##\\s|$)",
-    "i"
+    "i",
   );
   const m = md.match(re);
   return m ? m[2].trim() : "";
@@ -67,9 +67,8 @@ const structuredData = {
   "@context": "https://schema.org",
   "@type": "Recipe",
   name: recept?.data?.name,
-  url: Astro.site?.href + Astro.url.pathname,
+  url: (Astro.site?.href + Astro.url.pathname).replace(/\/\/+/g, "/"),
   totalTime: recept?.data?.totalTime ?? recept?.data?.cookTime,
-  image: recept?.data?.image,
   recipeCategory: recept?.data?.recipeCategory,
   recipeYield: recept?.data?.recipeYield,
   recipeIngredient: ingredients,
@@ -82,5 +81,6 @@ const structuredData = {
 
 <script
   is:inline
-  set:html={JSON.stringify(structuredData)}   type="application/ld+json"
+  set:html={JSON.stringify(structuredData)}
+  type="application/ld+json"
 />
