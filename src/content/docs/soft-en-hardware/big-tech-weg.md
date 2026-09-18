@@ -33,6 +33,7 @@ Alternatieven die ons wel aardig leken.
 | Syncthing          | [Syncthing](https://syncthing.net/)                                     | Dropbox, Google Drive, Onedrive    | Synchroniseert bestanden tussen apparaten. Draait op bijna alles.                                                                                                                                                                |
 | Pikapods           | [https://www.pikapods.com/](https://www.pikapods.com/)                  | Alles                              | Bij Pikapods kun je zelf applicaties hosten voor een paar euro per maand. Fijn als je wel dat ene open source pakket wil gebruiken, maar niet weet waar het moet laten. Percentage van de kosten gaat zelfs naar de maintainers! |
 | Zeitkapsl          | [Zeitkapsl.eu](https://zeitkapsl.eu)                                    | Google Photo's                     |                                                                                                                                                                                                                                  |
+| Openprinter     |[https://www.opentools.studio/](https://www.opentools.studio/)|Printers|Zou dit hem dan zijn? De printer die wel werkt? De website klinkt in elk geval super sympathiek.|
 
 ## Geensnor Consent-o-matic rules lijst
 
