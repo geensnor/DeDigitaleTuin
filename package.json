@@ -13,23 +13,22 @@
     "lint:check": "npx eslint ./src"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.10",
+    "@astrojs/markdown-remark": "^7.3.1",
     "@astrojs/rss": "^4.0.19",
     "@astrojs/starlight": "^0.42.0",
     "@fontsource-variable/work-sans": "^5.2.6",
     "@fontsource/zilla-slab": "^5.2.7",
     "@geensnor/astro-componenten": "^2.1.11",
-    "@yeskunall/astro-umami": "^0.0.8",
     "astro": "^7.3.2",
     "eslint-plugin-astro": "^1.5.0",
     "ical-generator": "^10.0.0",
     "iso8601-duration": "^2.1.2",
     "octokit": "^4.0.2",
     "sharp": "^0.32.5",
-    "starlight-links-validator": "^0.21.0",
-    "typescript": "^5.9.2"
+    "starlight-links-validator": "^0.21.0"
   },
   "devDependencies": {
+    "@astrojs/check": "^0.9.10",
     "@eslint/css": "^0.14.1",
     "@eslint/js": "^9.39.2",
     "@eslint/json": "^0.14.0",
@@ -37,6 +36,7 @@
     "eslint": "^10.0.1",
     "globals": "^17.0.0",
     "markdownlint-cli2": "^0.23.2",
+    "typescript": "^6.0.3",
     "typescript-eslint": "^8.56.0"
   }
 }
