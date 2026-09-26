@@ -24,7 +24,8 @@ export default defineConfig({
             "data-website-id": "a609a09c-e6fe-48dd-b07b-330e8a22a273",
             defer: true,
           },
-
+        },
+        {
           tag: "script",
           attrs: {
             type: "application/ld+json",
