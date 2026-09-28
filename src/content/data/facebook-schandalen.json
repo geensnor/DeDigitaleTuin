@@ -1,6 +1,18 @@
 [
   {
     "datum": "september 2026",
+    "schandaal": "Meta heeft gebruikers misleid over bescherming privacy.",
+    "bron": "Slashdot",
+    "url": "https://tech.slashdot.org/story/26/09/26/0042239/meta-made-43m-misleading-statements-new-mexico-jury-finds-including-on-its-cambridge-analytica-response"
+  },
+  {
+    "datum": "september 2026",
+    "schandaal": "Nieuwe AI van Meta leest ongewild prive berichten.",
+    "bron": "INC",
+    "url": "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202"
+  },
+  {
+    "datum": "september 2026",
     "schandaal": "Meta verwijderde tijdelijk de Facebookpagina van presidentskandidaat in Brazilië, twee weken voor de verkiezingen",
     "bron": "Reddit",
     "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/"
