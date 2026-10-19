@@ -14,7 +14,7 @@ author: Picnic
 - 20 stuks gyoza's kip
 - 400 g Japanse wokgroenten
 - 400 ml kokosmelk
-- 200 gedamame
+- 200 g edamame
 - 1 stengel citroengras
 - 20 g gember
 - 2 stuks kippenbouillon
