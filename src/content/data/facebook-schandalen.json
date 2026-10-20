@@ -1,6 +1,18 @@
 [
   {
     "datum": "oktober 2026",
+    "schandaal": "Muse lekt gevoelige informatie als gesprekken via weblinks worden gedeeld.",
+    "bron": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
+  },
+  {
+    "datum": "oktober 2026",
+    "schandaal": "AI Meta verbergt toezichthouder in helppagina WhatsApp.",
+    "bron": "Redact",
+    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
+  },
+  {
+    "datum": "oktober 2026",
     "schandaal": "Meta blokkeert account No Kings protest",
     "bron": "Raw Story",
     "url": "https://www.rawstory.com/no-kings-2678101228/"
