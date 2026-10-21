@@ -1,6 +1,12 @@
 [
   {
     "datum": "oktober 2026",
+    "schandaal": "Meta moet 25 miljard boete betalen vanwege Cambridge Analytica schandaal.",
+    "bron": "The Verge",
+    "url": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty"
+  },
+  {
+    "datum": "oktober 2026",
     "schandaal": "Muse lekt gevoelige informatie als gesprekken via weblinks worden gedeeld.",
     "bron": "Ars Technica",
     "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
