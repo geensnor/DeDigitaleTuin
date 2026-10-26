@@ -1,0 +1,12 @@
+! AliExpress AWSC fingerprinting scripts
+||assets.aliexpress-media.com/g/AWSC/uab/*/collina.js$script,domain=aliexpress.com
+||assets.aliexpress-media.com/g/AWSC/fireyejs/*/fireyejs.js$script,domain=aliexpress.com
+
+
+! irritante "maak ons je Google favoriet" knop op nieuwssites
+##.googlebot-article-content.dmt-grid-center-s.vorm__article-content > dmt-util-bar > .dmt-util-bar__button--preferred-source.dmt-util-bar__button
+##div._1snnbjnoh._1snnbjnkx._1snnbjnwt._1snnbjnt9._1snnbjn6.spacer > ._i7r509r._i7r509h._i7r509e._i7r509a._i7r509c._i7r5098._i7r5093._i7r5090._i7r5091
+##.dmt-header__util-bar > dmt-util-bar > .dmt-util-bar__button--preferred-source.dmt-util-bar__button
+
+! Vertaalknop op Mastodon die veel te veel wordt getoond
+##._comp_status__translate

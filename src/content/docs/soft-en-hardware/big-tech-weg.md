@@ -12,6 +12,8 @@ Nu was MAANGMULA (Meta, Amazon, Apple, Netflix, Google, Microsoft, Uber, Lyft en
 
 ## Andere lijsten met alternatieven
 
+Alternatieve alternatieven dus.
+
 | Website                                                                                        | Toelichting                                               |
 | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | [https://european-alternatives.eu/](https://european-alternatives.eu/)                         | Site met Europeese alternatieven voor diensten uit de VS. |
@@ -47,14 +49,23 @@ En voeg daar deze URL toe: [https://raw.githubusercontent.com/geensnor/DeDigital
 
 De bestaande regels blijven ook gewoon werken.
 
+## Blok lijsten
+
+Lijsten om lekker veel troep tegen te houden
+
+| Wat blokkeren we?                                             | Blokker                                     | URL                                                                                                                                                  |
+| ------------------------------------------------------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Handgemaakte lijst door Geensnor om irritante zooi te blokken | [uBlock](https://github.com/gorhill/uBlock) | [https://www.dedigitaletuin.nl/geensnor-ublock-lijst.txt](/geensnor-ublock-lijst.txt)                                                                |
+| AI meuk blokkeren                                             | [uBlock](https://github.com/gorhill/uBlock) | [https://github.com/alvi-se/ai-ublock-blacklist](https://github.com/alvi-se/ai-ublock-blacklist)                                                     |
+| Lijst die gewoon lekker veel blokkeert.                       | [Pi-hole](https://pi-hole.net/)             | [https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt) |
+
 ## Overig
 
-| Wat?                                                                                                                              | Website                                                                                          |
-| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Hetzelfde als hierboven (wel content, niet de troep) maar dan van Instagram                                                       | [https://imginn.com](https://imginn.com)                                                         |
-| Wat is Open Source en is het wel echt Open Source als ze zeggen dat het Open Source is. Controleer het hier!                      | [https://isitreallyfoss.com](https://isitreallyfoss.com/)                                        |
-| Mooi overzicht van Nederlandse politici en partijen op Mastodon. Afkomstig uit de Geensnor stal.                                  | [https://www.politici-op-mastodon.nl](https://www.politici-op-mastodon.nl)                       |
-| Overzicht van welke Tweede Kamerleden nog op Twitter zitten en welke niet. Ook hier heeft Geensnor weer een steentje bijgedragen. | [https://leavex.eu/politicians-nl/](https://leavex.eu/politicians-nl/)                           |
-| Website die weergeeft van welke organisaties (lees: Big Tech) we afhankelijk zijn                                                 | [https://zijnwealautonoom.nl/](https://zijnwealautonoom.nl/)                                     |
-| JSON om kenbaar te maken dat je website wordt beheerd door een mens                                                               | [human.json](https://codeberg.org/robida/human.json)                                             |
-| uBlock AI Blocklist                                                                                                               | [https://github.com/alvi-se/ai-ublock-blacklist](https://github.com/alvi-se/ai-ublock-blacklist) |
+| Wat?                                                                                                                              | Website                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Hetzelfde als hierboven (wel content, niet de troep) maar dan van Instagram                                                       | [https://imginn.com](https://imginn.com)                                   |
+| Wat is Open Source en is het wel echt Open Source als ze zeggen dat het Open Source is. Controleer het hier!                      | [https://isitreallyfoss.com](https://isitreallyfoss.com/)                  |
+| Mooi overzicht van Nederlandse politici en partijen op Mastodon. Afkomstig uit de Geensnor stal.                                  | [https://www.politici-op-mastodon.nl](https://www.politici-op-mastodon.nl) |
+| Overzicht van welke Tweede Kamerleden nog op Twitter zitten en welke niet. Ook hier heeft Geensnor weer een steentje bijgedragen. | [https://leavex.eu/politicians-nl/](https://leavex.eu/politicians-nl/)     |
+| Website die weergeeft van welke organisaties (lees: Big Tech) we afhankelijk zijn                                                 | [https://zijnwealautonoom.nl/](https://zijnwealautonoom.nl/)               |
+| JSON om kenbaar te maken dat je website wordt beheerd door een mens                                                               | [human.json](https://codeberg.org/robida/human.json)                       |
