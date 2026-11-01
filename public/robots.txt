@@ -14,3 +14,5 @@ User-agent: GPTBot
 Disallow: /
 User-agent: PiplBot
 Disallow: /
+User-Agent: __usage_ai-training
+Disallow: /
