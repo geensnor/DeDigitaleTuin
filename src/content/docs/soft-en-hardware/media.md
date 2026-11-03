@@ -15,3 +15,4 @@ Bedrijven zoeken op allerlei manieren naar afbeeldingen waarvan ze denken dat zi
 | [nyx.gallery](https://nyx.gallery/)                    | Rechtenvrije, door AI gegenereerde "foto's"                  |
 | [public.work](https://public.work/)                    | Zoekmachine voor pubiek werk                                 |
 | [https://www.lummi.ai/](https://www.lummi.ai/)         | Rechtenvrije AI gegenereerde afbeeldingen                    |
+| [https://digitalsf.org/](https://digitalsf.org/)       | Rechtenvrije foto's uit de bibliotheek van San Fransisco     |
